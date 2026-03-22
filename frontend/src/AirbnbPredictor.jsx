@@ -22,8 +22,7 @@ const PROP_TYPES   = ["Apartment","House","Condo","Loft","Villa","Studio","Townh
 const BED_TYPES    = ["Real Bed","Pull-out Sofa","Futon","Couch","Airbed"];
 const CANCEL_POLS  = ["flexible","moderate","strict","super_strict_30","super_strict_60"];
 
-const API = "http://localhost:5000";
-
+const API = "https://real-estate-property-price-prediction-1.onrender.com";
 // ── Demo predict (matches notebook feature logic) ───────────────
 function demoPredict(f) {
   const cityBase = { NYC:195, SF:220, LA:155, DC:165, Chicago:125, Boston:170 };
