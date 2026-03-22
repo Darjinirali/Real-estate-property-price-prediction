@@ -1,0 +1,1001 @@
+log_price,price,accommodates,bathrooms,bedrooms,beds,number_of_reviews,review_scores_rating,latitude,longitude,room_type,property_type,bed_type,cancellation_policy,city,cleaning_fee,instant_bookable,host_has_profile_pic,host_identity_verified
+3.923161,50.56,2,2.0,1,1,5,89.0,37.721697,-122.337622,Shared room,Loft,Real Bed,flexible,SF,True,t,f,f
+5.223001,185.49,2,1.0,3,3,65,88.0,34.11054,-118.391893,Entire home/apt,Condo,Real Bed,moderate,LA,True,f,t,t
+5.234738,187.68,4,1.0,2,2,20,86.0,40.60854,-73.785631,Entire home/apt,Apartment,Futon,moderate,NYC,False,f,t,f
+5.669398,289.86,1,1.0,3,4,9,83.0,37.625423,-122.444509,Entire home/apt,House,Real Bed,strict,SF,True,f,t,t
+4.320949,75.26,2,1.0,4,4,22,93.0,37.963027,-122.475354,Private room,Condo,Futon,moderate,SF,True,t,t,t
+4.748491,115.41,2,2.0,6,6,5,100.0,34.216438,-118.695134,Private room,Apartment,Real Bed,moderate,LA,False,f,t,t
+5.74233,311.79,6,1.5,2,2,7,92.0,33.730887,-118.504947,Entire home/apt,Apartment,Real Bed,moderate,LA,False,f,t,t
+5.298767,200.09,2,1.5,3,3,39,86.0,42.212233,-71.022732,Entire home/apt,Apartment,Real Bed,super_strict_30,Boston,True,f,t,t
+5.413965,224.52,2,2.5,2,2,6,98.0,38.92208,-76.98814,Entire home/apt,House,Real Bed,strict,DC,True,t,t,f
+5.336095,207.7,2,2.0,2,3,50,94.0,40.502025,-74.119596,Entire home/apt,Studio,Futon,strict,NYC,False,f,t,t
+4.53582,93.3,2,1.5,2,3,6,97.0,34.078683,-118.143632,Private room,Condo,Real Bed,strict,LA,True,f,t,t
+2.70805,15.0,2,1.5,1,1,0,,34.256991,-118.400271,Entire home/apt,House,Real Bed,strict,LA,False,f,t,t
+5.395762,220.47,5,1.5,3,4,26,97.0,37.880994,-122.420254,Private room,Apartment,Real Bed,moderate,SF,True,f,t,f
+4.47141,87.48,4,1.0,5,5,7,88.0,41.895417,-87.88475,Private room,Townhouse,Real Bed,moderate,Chicago,True,t,t,t
+4.29606,73.41,1,1.5,3,4,12,90.0,33.747074,-118.682254,Private room,Apartment,Real Bed,flexible,LA,True,t,t,t
+5.71548,303.53,4,1.5,2,2,31,100.0,40.505757,-74.141964,Entire home/apt,Apartment,Real Bed,strict,NYC,True,t,t,t
+5.18867,179.23,2,1.5,2,2,23,97.0,33.797761,-118.650602,Entire home/apt,House,Real Bed,flexible,LA,True,f,t,f
+4.973418,144.52,2,2.5,3,4,2,92.0,38.973203,-77.171525,Private room,House,Real Bed,strict,DC,True,t,t,t
+4.959202,142.48,4,1.0,4,4,32,89.0,40.636321,-73.734621,Private room,Apartment,Real Bed,strict,NYC,False,f,t,t
+4.284276,72.55,4,1.0,3,4,18,99.0,41.915919,-87.675777,Private room,Apartment,Futon,moderate,Chicago,True,t,t,f
+4.635505,103.08,3,1.0,1,1,31,85.0,38.947287,-77.159551,Private room,Loft,Pull-out Sofa,flexible,DC,False,t,t,t
+5.153465,173.03,8,2.0,2,3,33,89.0,40.723362,-73.987889,Private room,Condo,Real Bed,flexible,NYC,False,f,t,t
+2.70805,15.0,4,1.0,3,4,0,,34.234686,-118.330609,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,f
+5.565707,261.31,4,1.0,3,4,13,83.0,42.256436,-71.06089,Entire home/apt,House,Couch,moderate,Boston,True,t,t,f
+5.937563,379.01,4,2.0,2,2,28,84.0,37.973091,-122.166968,Entire home/apt,Apartment,Couch,super_strict_30,SF,True,f,t,f
+5.521381,249.98,2,2.5,2,3,1,94.0,40.899887,-73.701682,Entire home/apt,Apartment,Pull-out Sofa,super_strict_30,NYC,False,f,t,t
+5.042392,154.84,2,2.5,1,1,2,93.0,34.163391,-118.335886,Private room,Guest suite,Pull-out Sofa,flexible,LA,True,f,t,t
+5.141839,171.03,2,1.5,1,1,9,82.0,41.818737,-87.447921,Entire home/apt,House,Pull-out Sofa,moderate,Chicago,True,t,t,t
+5.870116,354.29,4,2.5,2,2,8,84.0,37.630345,-122.53556,Entire home/apt,Loft,Real Bed,strict,SF,True,f,f,t
+5.513146,247.93,2,1.0,4,4,2,83.0,40.645708,-73.948291,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,t,t,t
+5.532243,252.71,4,1.0,2,3,14,83.0,38.885014,-76.901012,Entire home/apt,Loft,Real Bed,flexible,DC,False,t,t,t
+5.272743,194.95,3,1.0,1,1,8,88.0,40.547905,-73.754736,Entire home/apt,Condo,Futon,moderate,NYC,True,t,t,t
+4.883862,132.14,3,1.0,3,3,94,84.0,38.740713,-77.138856,Private room,Loft,Real Bed,flexible,DC,True,f,t,t
+5.611009,273.42,5,1.0,1,1,44,89.0,40.568355,-73.865678,Entire home/apt,Apartment,Real Bed,flexible,NYC,False,t,t,f
+5.057837,157.25,2,1.0,2,2,3,100.0,42.215547,-71.099019,Entire home/apt,House,Real Bed,strict,Boston,True,f,t,t
+5.489475,242.13,2,1.0,4,4,28,93.0,40.729789,-73.779086,Entire home/apt,Cabin,Real Bed,strict,NYC,False,f,f,t
+5.347679,210.12,4,2.0,3,3,7,92.0,40.592885,-73.750213,Private room,Apartment,Real Bed,flexible,NYC,False,t,t,t
+5.634039,279.79,5,1.0,2,2,3,85.0,37.897579,-122.583234,Entire home/apt,Townhouse,Real Bed,flexible,SF,True,f,t,f
+4.975906,144.88,2,1.0,2,2,22,94.0,33.851079,-118.458013,Private room,Studio,Real Bed,strict,LA,True,t,t,f
+5.051329,156.23,6,1.0,1,1,18,95.0,40.782895,-74.12373,Private room,Condo,Real Bed,moderate,NYC,True,t,t,f
+5.5404,254.78,5,3.0,2,3,19,88.0,33.901118,-118.138003,Entire home/apt,House,Real Bed,super_strict_30,LA,True,f,t,t
+5.541812,255.14,2,1.0,2,2,11,91.0,40.732235,-73.883868,Entire home/apt,House,Real Bed,strict,NYC,True,t,t,t
+4.659942,105.63,2,3.0,1,1,50,89.0,40.51462,-73.963967,Private room,Apartment,Couch,flexible,NYC,True,t,t,t
+5.13897,170.54,2,1.0,2,2,22,90.0,33.793692,-118.198819,Entire home/apt,Loft,Real Bed,moderate,LA,False,f,t,t
+5.217866,184.54,1,2.0,1,1,28,93.0,38.858873,-76.932766,Entire home/apt,Apartment,Real Bed,strict,DC,True,t,t,t
+5.074424,159.88,2,1.0,1,1,6,100.0,40.607225,-73.887926,Entire home/apt,Studio,Real Bed,flexible,NYC,True,f,t,t
+5.422436,226.43,4,2.0,1,1,6,100.0,33.854733,-118.602451,Entire home/apt,House,Real Bed,super_strict_30,LA,False,f,t,t
+2.70805,15.0,1,1.0,2,2,0,,41.668443,-87.449991,Shared room,House,Real Bed,moderate,Chicago,True,f,t,t
+4.793142,120.68,2,1.0,2,2,7,98.0,38.842269,-76.912382,Private room,Apartment,Futon,moderate,DC,True,f,t,t
+4.873287,130.75,1,1.0,1,1,2,81.0,33.745083,-118.190268,Private room,Townhouse,Real Bed,flexible,LA,True,f,t,f
+5.296065,199.55,2,1.0,2,3,17,92.0,34.223768,-118.187443,Entire home/apt,Villa,Pull-out Sofa,strict,LA,True,f,t,t
+5.287863,197.92,8,1.5,2,3,26,98.0,38.81894,-76.830242,Private room,Apartment,Real Bed,flexible,DC,True,f,t,t
+5.063544,158.15,2,1.0,1,1,17,92.0,41.995362,-87.740624,Entire home/apt,Villa,Real Bed,moderate,Chicago,True,f,t,t
+5.519218,249.44,4,1.5,5,5,32,94.0,38.867107,-77.031457,Entire home/apt,Apartment,Pull-out Sofa,flexible,DC,True,f,t,f
+5.6909,296.16,1,3.0,1,1,33,97.0,40.535764,-73.99121,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,f
+4.784487,119.64,3,1.0,2,2,76,88.0,40.853514,-73.736124,Shared room,Apartment,Couch,strict,NYC,True,f,t,t
+5.413519,224.42,3,2.0,3,3,36,89.0,38.962097,-76.979657,Entire home/apt,Villa,Real Bed,flexible,DC,True,f,t,f
+5.642262,282.1,2,2.0,2,2,24,87.0,37.826293,-122.466486,Entire home/apt,Condo,Real Bed,flexible,SF,True,f,t,t
+4.981687,145.72,4,2.0,4,5,29,94.0,38.764304,-76.872813,Private room,Studio,Real Bed,strict,DC,True,f,t,t
+5.467005,236.75,2,1.0,3,3,59,100.0,40.541004,-73.731386,Entire home/apt,Condo,Airbed,strict,NYC,True,f,t,t
+2.70805,15.0,4,2.0,1,2,0,,37.608849,-122.438195,Private room,Apartment,Real Bed,moderate,SF,False,f,t,f
+4.693181,109.2,8,1.0,2,2,23,91.0,34.26617,-118.406191,Private room,Condo,Real Bed,moderate,LA,True,t,t,f
+5.42473,226.95,5,1.0,1,1,75,94.0,39.010639,-76.891631,Entire home/apt,Apartment,Airbed,moderate,DC,True,t,t,t
+4.735848,113.96,5,1.0,3,3,1,82.0,41.99878,-87.744819,Private room,Condo,Real Bed,flexible,Chicago,True,t,t,t
+5.194012,180.19,3,2.0,2,2,94,92.0,34.070893,-118.208275,Entire home/apt,Apartment,Real Bed,moderate,LA,True,f,t,t
+5.273153,195.03,2,1.0,1,1,4,100.0,33.718952,-118.044651,Entire home/apt,Apartment,Real Bed,flexible,LA,True,f,t,f
+5.600124,270.46,4,2.0,3,3,28,88.0,40.848713,-74.090393,Entire home/apt,Condo,Pull-out Sofa,strict,NYC,False,f,t,t
+2.70805,15.0,3,3.0,3,4,0,,42.277305,-71.061213,Entire home/apt,Apartment,Pull-out Sofa,strict,Boston,True,t,t,t
+5.162669,174.63,1,1.5,3,3,19,96.0,42.056182,-87.794669,Entire home/apt,Apartment,Real Bed,super_strict_30,Chicago,False,f,t,t
+5.132263,169.4,2,2.0,2,2,9,100.0,41.896475,-87.818238,Entire home/apt,Condo,Futon,flexible,Chicago,True,f,t,t
+5.137385,170.27,6,1.0,2,2,6,91.0,37.846858,-122.246611,Private room,Apartment,Real Bed,flexible,SF,True,t,t,t
+5.031287,153.13,4,1.0,3,3,2,90.0,40.68088,-73.733062,Private room,Condo,Real Bed,strict,NYC,True,f,t,t
+5.708405,301.39,6,1.0,3,3,26,80.0,40.580741,-73.863284,Entire home/apt,Cabin,Couch,flexible,NYC,True,t,t,t
+5.538239,254.23,4,1.0,3,3,23,100.0,42.318159,-71.00463,Entire home/apt,Condo,Pull-out Sofa,super_strict_30,Boston,False,f,t,t
+5.352142,211.06,4,1.0,4,4,37,87.0,42.236063,-71.036653,Entire home/apt,Bungalow,Real Bed,strict,Boston,False,f,t,t
+4.952088,141.47,2,1.5,1,1,16,82.0,38.891673,-77.189743,Entire home/apt,House,Real Bed,moderate,DC,True,f,t,f
+5.722866,305.78,4,1.0,3,3,1,83.0,37.973774,-122.424189,Entire home/apt,House,Real Bed,strict,SF,True,f,t,f
+5.794537,328.5,2,1.0,3,3,27,86.0,37.642751,-122.316344,Entire home/apt,Apartment,Pull-out Sofa,moderate,SF,True,f,t,t
+5.341425,208.81,4,1.0,2,2,5,92.0,34.168315,-118.507636,Entire home/apt,Condo,Couch,strict,LA,True,f,t,t
+5.242223,189.09,2,1.0,3,3,10,99.0,38.937791,-77.001293,Entire home/apt,Condo,Real Bed,moderate,DC,True,f,t,t
+4.653484,104.95,2,1.0,3,3,9,100.0,33.741654,-118.336658,Private room,Condo,Airbed,flexible,LA,False,t,t,t
+5.189785,179.43,4,1.0,4,4,4,83.0,42.360748,-71.170997,Private room,House,Real Bed,moderate,Boston,True,f,t,f
+5.082646,161.2,2,3.0,1,2,2,90.0,37.902108,-122.536143,Private room,Loft,Futon,flexible,SF,True,f,t,t
+5.007831,149.58,2,1.0,3,3,106,95.0,42.025712,-87.795745,Entire home/apt,Apartment,Real Bed,moderate,Chicago,True,f,t,t
+4.987708,146.6,2,1.5,2,2,43,99.0,42.476827,-71.053881,Private room,Loft,Pull-out Sofa,moderate,Boston,False,f,t,t
+5.050433,156.09,1,1.0,1,2,15,95.0,40.675805,-74.147168,Entire home/apt,House,Real Bed,moderate,NYC,True,f,t,t
+4.567572,96.31,2,3.0,1,1,2,96.0,38.82131,-77.159582,Private room,Apartment,Real Bed,strict,DC,True,f,t,t
+4.096343,60.12,4,1.0,2,3,38,93.0,34.140169,-118.161487,Shared room,Villa,Real Bed,moderate,LA,True,t,t,t
+4.962495,142.95,3,1.0,1,1,2,91.0,34.028776,-118.381936,Entire home/apt,Apartment,Real Bed,flexible,LA,False,f,t,t
+5.146215,171.78,2,1.5,5,5,13,92.0,37.854881,-122.270323,Private room,House,Real Bed,moderate,SF,True,f,t,f
+5.49684,243.92,3,1.0,2,2,29,97.0,38.841301,-77.081386,Entire home/apt,House,Real Bed,strict,DC,True,t,t,f
+5.483634,240.72,4,1.0,1,1,10,88.0,38.782275,-77.151445,Entire home/apt,Apartment,Real Bed,strict,DC,False,t,t,t
+5.537374,254.01,2,2.0,4,4,10,95.0,38.872831,-77.024238,Entire home/apt,Apartment,Couch,strict,DC,True,t,t,t
+5.585262,266.47,2,1.5,5,5,4,93.0,40.718011,-73.707665,Entire home/apt,Apartment,Futon,strict,NYC,False,f,t,t
+4.714921,111.6,4,1.0,3,3,3,91.0,41.830779,-87.895334,Private room,Apartment,Real Bed,strict,Chicago,True,f,t,f
+5.224186,185.71,3,1.0,3,3,30,86.0,42.260744,-70.912578,Entire home/apt,House,Pull-out Sofa,flexible,Boston,True,t,t,t
+5.422966,226.55,2,1.0,4,4,2,85.0,40.735281,-73.959514,Entire home/apt,Studio,Airbed,moderate,NYC,True,f,t,f
+5.167639,175.5,4,2.0,1,1,27,93.0,34.173169,-118.337912,Entire home/apt,House,Real Bed,strict,LA,True,t,t,f
+5.709996,301.87,4,1.5,4,4,18,91.0,37.835108,-122.507762,Entire home/apt,Apartment,Real Bed,moderate,SF,True,t,t,t
+5.360259,212.78,2,1.0,2,3,14,85.0,40.553392,-74.159699,Entire home/apt,Villa,Real Bed,moderate,NYC,False,t,t,t
+4.564973,96.06,2,1.0,4,4,6,100.0,34.155639,-118.385182,Private room,Loft,Real Bed,strict,LA,True,t,t,t
+5.02263,151.81,2,1.5,2,3,6,92.0,40.792328,-73.709351,Private room,Apartment,Real Bed,moderate,NYC,True,f,t,t
+5.381233,217.29,2,1.0,1,1,2,84.0,40.844056,-73.838593,Entire home/apt,House,Couch,strict,NYC,True,f,t,t
+5.466836,236.71,6,1.0,3,3,13,90.0,33.731174,-118.149605,Entire home/apt,House,Real Bed,flexible,LA,True,t,t,f
+5.637785,280.84,4,1.0,3,4,52,87.0,40.715481,-73.951094,Entire home/apt,Loft,Real Bed,flexible,NYC,False,t,t,t
+5.130017,169.02,3,1.0,2,2,3,87.0,41.94795,-87.503369,Entire home/apt,Loft,Couch,flexible,Chicago,False,t,t,t
+5.514074,248.16,2,1.0,3,3,75,89.0,42.325328,-70.904767,Entire home/apt,Cabin,Real Bed,flexible,Boston,True,f,t,t
+4.210645,67.4,3,1.5,4,4,8,100.0,40.688467,-73.789182,Private room,House,Real Bed,flexible,NYC,False,f,t,f
+4.749097,115.48,4,1.0,1,1,21,88.0,33.911425,-118.110987,Private room,Apartment,Real Bed,strict,LA,True,f,t,t
+5.166955,175.38,1,2.0,1,1,15,92.0,38.822124,-77.114942,Entire home/apt,Condo,Real Bed,strict,DC,False,t,t,f
+4.93663,139.3,5,1.0,3,3,2,93.0,42.326765,-71.187393,Private room,Loft,Real Bed,moderate,Boston,False,f,t,f
+5.00072,148.52,4,2.5,1,1,2,93.0,37.881474,-122.329651,Private room,Apartment,Futon,strict,SF,True,f,t,f
+5.508295,246.73,2,2.0,2,3,1,90.0,40.595804,-73.802711,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,t,t
+5.017346,151.01,3,1.0,1,2,16,89.0,42.329128,-71.104916,Private room,House,Real Bed,strict,Boston,True,f,t,t
+4.472553,87.58,3,1.0,2,2,20,90.0,38.997438,-76.997494,Private room,House,Real Bed,strict,DC,True,f,t,f
+2.70805,15.0,2,1.0,3,3,0,,37.687628,-122.581639,Entire home/apt,House,Real Bed,flexible,SF,True,t,t,t
+5.287105,197.77,2,1.5,3,3,26,88.0,40.668731,-73.994489,Entire home/apt,Loft,Real Bed,moderate,NYC,True,f,t,t
+4.270816,71.58,6,1.5,2,2,2,87.0,42.310716,-71.163692,Private room,Condo,Real Bed,strict,Boston,True,t,t,f
+4.722775,112.48,6,1.0,3,3,28,92.0,33.785282,-118.691805,Private room,Apartment,Real Bed,moderate,LA,True,f,t,f
+5.095038,163.21,2,1.5,2,2,7,98.0,33.967852,-118.141134,Entire home/apt,House,Real Bed,flexible,LA,False,f,t,t
+4.322409,75.37,3,1.5,2,2,48,86.0,41.612724,-87.577089,Private room,Townhouse,Real Bed,moderate,Chicago,True,t,t,t
+2.70805,15.0,4,1.0,2,3,0,,38.902182,-76.814393,Entire home/apt,Apartment,Real Bed,moderate,DC,True,f,t,t
+5.122713,167.79,2,1.0,2,3,90,91.0,40.615362,-73.719432,Entire home/apt,Apartment,Real Bed,strict,NYC,True,f,t,f
+5.704815,300.31,4,1.0,3,3,17,83.0,37.738911,-122.309766,Entire home/apt,Apartment,Real Bed,moderate,SF,True,t,t,f
+5.398163,221.0,4,1.0,3,3,52,85.0,38.988857,-76.986645,Entire home/apt,House,Airbed,strict,DC,True,f,t,f
+5.120983,167.5,2,1.0,4,4,14,94.0,41.88864,-87.467211,Entire home/apt,Studio,Couch,flexible,Chicago,True,f,t,t
+4.394449,81.0,2,2.0,5,5,14,94.0,41.943861,-87.538647,Private room,House,Couch,flexible,Chicago,True,f,t,t
+5.915717,370.82,6,3.0,1,1,39,94.0,37.89619,-122.528575,Entire home/apt,Loft,Real Bed,flexible,SF,False,t,t,f
+3.805996,44.97,3,1.0,1,1,64,97.0,38.728927,-76.817954,Private room,Studio,Real Bed,flexible,DC,True,t,t,f
+5.269661,194.35,1,1.0,2,2,8,93.0,40.690575,-74.086986,Entire home/apt,Loft,Real Bed,flexible,NYC,False,f,t,f
+5.407261,223.02,3,1.5,2,2,35,92.0,38.921,-76.991932,Entire home/apt,Condo,Real Bed,strict,DC,True,t,t,f
+5.305541,201.45,1,1.0,2,2,40,89.0,37.601528,-122.476588,Entire home/apt,Apartment,Real Bed,strict,SF,True,t,t,t
+5.933491,377.47,4,2.5,4,4,26,99.0,40.501745,-74.116523,Entire home/apt,Apartment,Pull-out Sofa,moderate,NYC,True,f,t,t
+4.607468,100.23,2,1.0,3,4,10,99.0,42.310944,-71.184293,Private room,Guest suite,Real Bed,moderate,Boston,True,t,t,t
+4.284552,72.57,5,1.5,1,1,8,100.0,41.922416,-87.702435,Private room,Apartment,Real Bed,moderate,Chicago,True,t,t,f
+5.68443,294.25,3,2.0,1,1,11,96.0,42.347859,-71.078713,Entire home/apt,Apartment,Real Bed,flexible,Boston,True,t,t,t
+5.400603,221.54,2,1.0,5,5,7,97.0,40.809257,-73.94102,Entire home/apt,Bungalow,Real Bed,strict,NYC,False,t,t,t
+5.523778,250.58,1,1.0,4,4,30,83.0,40.689524,-74.171078,Entire home/apt,Condo,Couch,strict,NYC,True,t,t,t
+5.768165,319.95,4,2.0,3,3,54,92.0,40.616202,-73.965006,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,t
+5.490713,242.43,2,1.0,3,3,17,96.0,40.673126,-74.17805,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,t,t,t
+5.402182,221.89,4,2.5,1,1,18,85.0,40.603817,-73.981502,Entire home/apt,Studio,Airbed,strict,NYC,False,f,t,f
+4.680556,107.83,6,1.0,5,5,18,93.0,39.008651,-77.000442,Shared room,Apartment,Pull-out Sofa,strict,DC,True,f,t,t
+4.444062,85.12,4,1.0,1,1,11,91.0,40.867812,-73.703372,Private room,Apartment,Real Bed,strict,NYC,True,f,t,t
+4.43272,84.16,4,1.0,1,1,2,82.0,41.852979,-87.789574,Private room,Guest suite,Real Bed,moderate,Chicago,True,t,t,f
+3.111736,22.46,3,1.0,2,3,14,91.0,37.799016,-122.49766,Shared room,Condo,Real Bed,moderate,SF,False,f,t,f
+5.160089,174.18,6,2.0,2,3,3,94.0,37.950353,-122.330453,Private room,Apartment,Real Bed,flexible,SF,True,f,t,t
+5.699975,298.86,3,3.0,1,1,28,82.0,40.886738,-74.087853,Entire home/apt,Loft,Real Bed,moderate,NYC,True,t,t,t
+5.284066,197.17,4,1.0,1,2,19,97.0,41.930507,-87.860772,Entire home/apt,Apartment,Real Bed,strict,Chicago,False,f,t,t
+4.731098,113.42,2,1.5,2,2,59,94.0,40.831003,-73.851395,Private room,Condo,Couch,flexible,NYC,True,f,t,t
+4.304605,74.04,4,1.0,1,1,18,100.0,42.484127,-71.051122,Private room,Condo,Pull-out Sofa,moderate,Boston,False,f,t,f
+4.46303,86.75,1,1.5,4,5,27,90.0,42.03132,-87.810372,Private room,House,Real Bed,strict,Chicago,True,f,t,t
+5.533152,252.94,2,1.5,4,4,1,100.0,37.819543,-122.456184,Entire home/apt,Studio,Real Bed,moderate,SF,False,f,t,t
+5.625641,277.45,4,1.5,2,2,24,84.0,38.952913,-77.120403,Entire home/apt,Loft,Real Bed,flexible,DC,True,t,t,t
+5.441552,230.8,1,3.0,2,2,9,89.0,40.659045,-74.067862,Entire home/apt,Apartment,Real Bed,super_strict_30,NYC,True,f,t,t
+5.589643,267.64,1,2.5,1,1,6,83.0,37.606044,-122.117492,Entire home/apt,Condo,Couch,strict,SF,True,f,t,t
+5.091662,162.66,4,1.0,2,3,26,85.0,41.940056,-87.695924,Entire home/apt,Apartment,Real Bed,moderate,Chicago,False,f,t,t
+5.624415,277.11,2,1.0,3,3,6,90.0,37.773761,-122.238276,Entire home/apt,Guest suite,Real Bed,strict,SF,True,f,t,t
+4.789739,120.27,2,1.0,3,3,29,91.0,38.942693,-76.930851,Private room,Apartment,Real Bed,flexible,DC,True,t,t,t
+4.983744,146.02,4,1.0,3,4,49,95.0,41.933232,-87.506306,Private room,House,Real Bed,strict,Chicago,True,f,t,t
+5.062468,157.98,5,2.0,1,1,1,87.0,40.696438,-73.736445,Private room,House,Real Bed,strict,NYC,True,t,t,t
+2.930127,18.73,1,1.5,1,2,8,90.0,33.849974,-118.339496,Private room,Apartment,Real Bed,flexible,LA,False,f,t,t
+5.357671,212.23,6,1.0,2,3,15,95.0,37.677545,-122.170592,Private room,Loft,Real Bed,strict,SF,False,t,t,t
+4.234541,69.03,4,1.5,1,1,29,95.0,41.857467,-87.819319,Private room,House,Real Bed,flexible,Chicago,True,t,t,f
+5.325738,205.56,1,1.0,2,3,17,84.0,40.778572,-73.848927,Entire home/apt,House,Real Bed,flexible,NYC,True,f,t,t
+4.501697,90.17,3,1.0,1,1,5,84.0,34.004683,-118.40651,Private room,Condo,Real Bed,flexible,LA,True,t,t,f
+4.789074,120.19,4,1.0,5,5,13,87.0,33.74542,-118.428522,Private room,Condo,Real Bed,flexible,LA,True,t,t,f
+4.349762,77.46,2,1.0,4,4,13,98.0,34.133643,-118.240289,Shared room,Apartment,Real Bed,flexible,LA,True,t,t,t
+5.2924,198.82,1,2.0,4,4,4,85.0,33.816985,-118.076713,Entire home/apt,Loft,Real Bed,moderate,LA,True,f,t,f
+4.891777,133.19,4,1.0,1,1,5,93.0,41.812425,-87.446081,Entire home/apt,Condo,Futon,moderate,Chicago,True,t,t,t
+4.322542,75.38,4,1.5,1,1,4,92.0,40.777856,-74.090642,Private room,House,Pull-out Sofa,strict,NYC,False,f,t,t
+4.813809,123.2,2,1.0,2,2,17,96.0,38.715592,-76.933261,Private room,Loft,Real Bed,flexible,DC,True,t,t,t
+5.201421,181.53,4,1.0,1,1,36,90.0,42.457407,-70.900712,Entire home/apt,Townhouse,Airbed,strict,Boston,True,f,t,f
+5.53493,253.39,4,1.0,1,1,21,91.0,40.725358,-73.887693,Entire home/apt,Loft,Real Bed,moderate,NYC,True,f,t,f
+4.216267,67.78,2,1.0,1,2,119,98.0,39.092447,-76.940196,Shared room,Loft,Real Bed,strict,DC,False,t,t,t
+5.230574,186.9,2,1.0,2,2,22,97.0,38.939721,-77.128258,Entire home/apt,House,Real Bed,strict,DC,True,f,t,t
+4.670209,106.72,3,1.0,5,5,19,100.0,38.937136,-77.05803,Private room,Apartment,Real Bed,strict,DC,True,f,t,f
+4.570372,96.58,4,1.5,2,2,21,91.0,39.089353,-77.013996,Private room,Studio,Real Bed,flexible,DC,False,f,t,f
+4.562784,95.85,2,1.0,1,1,3,91.0,42.491923,-70.972212,Private room,Studio,Futon,flexible,Boston,True,t,t,t
+4.842296,126.76,2,1.0,1,1,9,95.0,37.945864,-122.522537,Private room,Apartment,Real Bed,flexible,SF,True,t,t,t
+5.825085,338.69,3,1.5,1,1,38,87.0,37.622791,-122.390696,Entire home/apt,Loft,Real Bed,moderate,SF,True,t,t,t
+5.121401,167.57,3,1.0,5,5,43,90.0,33.944083,-118.470237,Private room,Loft,Pull-out Sofa,moderate,LA,True,f,t,t
+5.512945,247.88,3,1.0,3,3,7,90.0,40.587484,-74.108581,Entire home/apt,Guest suite,Real Bed,moderate,NYC,True,t,t,t
+4.288814,72.88,4,1.0,2,3,5,97.0,42.462222,-71.125099,Shared room,House,Real Bed,moderate,Boston,False,t,t,t
+5.116316,166.72,2,1.0,3,3,31,94.0,38.761797,-77.005094,Private room,Apartment,Real Bed,moderate,DC,True,f,t,t
+4.818587,123.79,1,1.0,1,1,1,84.0,42.210473,-71.034652,Private room,House,Pull-out Sofa,flexible,Boston,True,f,t,t
+5.664764,288.52,4,1.5,1,1,30,91.0,40.550195,-73.813614,Entire home/apt,House,Real Bed,flexible,NYC,True,t,t,t
+4.790072,120.31,4,1.0,3,3,20,85.0,34.1071,-118.477715,Private room,House,Real Bed,flexible,LA,False,f,t,t
+5.61688,275.03,4,1.0,3,3,60,95.0,37.674293,-122.413746,Entire home/apt,Bungalow,Real Bed,strict,SF,True,t,t,f
+5.658715,286.78,4,1.5,5,5,11,94.0,42.465376,-70.931331,Entire home/apt,House,Real Bed,moderate,Boston,True,t,t,t
+5.443024,231.14,2,1.5,2,2,12,96.0,38.765762,-77.153367,Entire home/apt,Apartment,Real Bed,moderate,DC,True,f,t,t
+5.343386,209.22,3,1.0,3,3,13,93.0,37.647484,-122.109716,Private room,Condo,Futon,strict,SF,False,f,t,t
+5.129544,168.94,3,3.0,3,3,1,96.0,40.776805,-73.971036,Private room,House,Real Bed,flexible,NYC,False,t,t,t
+5.667499,289.31,2,2.0,2,2,40,84.0,37.688495,-122.409504,Entire home/apt,Apartment,Pull-out Sofa,strict,SF,True,t,t,t
+5.905253,366.96,5,1.0,3,3,27,95.0,37.62738,-122.391167,Entire home/apt,Apartment,Futon,flexible,SF,True,f,f,t
+4.840796,126.57,2,1.0,4,4,1,87.0,42.318578,-71.145466,Private room,Apartment,Real Bed,moderate,Boston,True,t,t,t
+5.759532,317.2,2,2.0,4,5,30,90.0,40.712518,-73.861281,Entire home/apt,Apartment,Pull-out Sofa,moderate,NYC,False,f,t,t
+2.70805,15.0,2,2.0,3,3,0,,41.735999,-87.89681,Entire home/apt,Villa,Real Bed,strict,Chicago,True,t,t,t
+4.480287,88.26,4,1.0,4,5,2,84.0,42.292165,-71.036062,Shared room,House,Real Bed,moderate,Boston,True,f,t,f
+5.348392,210.27,5,1.0,1,1,5,95.0,34.255878,-118.406261,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,t
+5.340946,208.71,3,2.0,1,1,17,98.0,40.608597,-73.747878,Entire home/apt,House,Real Bed,flexible,NYC,True,f,t,f
+5.49302,242.99,4,1.0,1,2,45,75.0,37.73376,-122.402714,Entire home/apt,Apartment,Real Bed,strict,SF,False,t,t,t
+5.224617,185.79,2,1.0,1,1,10,86.0,34.084903,-118.51812,Entire home/apt,House,Pull-out Sofa,strict,LA,True,f,t,t
+5.211342,183.34,2,1.0,5,5,107,97.0,42.45983,-71.113168,Private room,Apartment,Real Bed,moderate,Boston,True,f,t,t
+5.23862,188.41,3,2.5,2,2,37,96.0,33.851816,-118.094106,Entire home/apt,House,Real Bed,moderate,LA,False,f,t,t
+5.35072,210.76,2,1.5,3,3,25,96.0,40.798831,-74.090643,Entire home/apt,Bungalow,Real Bed,strict,NYC,True,t,t,t
+2.70805,15.0,4,2.5,2,2,0,,40.75255,-73.986801,Entire home/apt,Condo,Pull-out Sofa,flexible,NYC,True,t,t,t
+5.204062,182.01,3,1.0,3,3,27,93.0,37.717341,-122.337265,Private room,Bungalow,Real Bed,strict,SF,True,f,t,t
+3.777119,43.69,1,1.0,1,1,8,94.0,41.932528,-87.621711,Private room,Condo,Couch,moderate,Chicago,True,f,t,f
+4.576668,97.19,2,1.0,3,3,41,90.0,40.883053,-73.917128,Private room,Townhouse,Real Bed,flexible,NYC,True,t,t,t
+5.037212,154.04,2,1.0,2,3,19,92.0,34.187484,-118.471141,Entire home/apt,Condo,Real Bed,flexible,LA,True,f,t,f
+4.614823,100.97,2,2.0,4,4,7,82.0,38.877213,-76.953158,Private room,Apartment,Real Bed,strict,DC,False,f,t,t
+3.334345,28.06,3,1.0,1,1,37,94.0,40.516632,-73.950935,Shared room,Apartment,Real Bed,moderate,NYC,True,f,t,t
+2.70805,15.0,4,1.0,2,2,0,,37.726309,-122.571559,Entire home/apt,Studio,Pull-out Sofa,moderate,SF,True,f,t,f
+3.937886,51.31,4,2.5,2,2,1,92.0,41.680962,-87.570949,Private room,Apartment,Real Bed,moderate,Chicago,True,f,f,t
+5.493843,243.19,5,1.5,2,2,23,100.0,42.374521,-71.079561,Entire home/apt,Apartment,Real Bed,flexible,Boston,True,t,t,f
+5.250334,190.63,2,1.0,1,1,17,93.0,37.963207,-122.401844,Entire home/apt,House,Real Bed,strict,SF,False,f,t,f
+5.535798,253.61,2,1.0,5,5,2,95.0,37.616114,-122.397289,Entire home/apt,Apartment,Real Bed,moderate,SF,False,f,t,f
+5.407934,223.17,4,3.0,2,2,22,89.0,34.059677,-118.068318,Entire home/apt,Townhouse,Real Bed,moderate,LA,False,t,t,t
+5.801786,330.89,4,2.0,2,2,11,92.0,37.842036,-122.489756,Entire home/apt,House,Real Bed,strict,SF,False,f,t,t
+5.396396,220.61,4,1.5,2,2,10,91.0,38.904683,-77.006682,Entire home/apt,Apartment,Real Bed,strict,DC,True,t,t,t
+5.211779,183.42,1,2.5,4,4,22,89.0,37.630875,-122.515056,Private room,Apartment,Real Bed,flexible,SF,True,t,t,t
+5.858476,350.19,8,1.0,3,3,11,76.0,40.509602,-74.032314,Entire home/apt,House,Real Bed,moderate,NYC,True,t,t,t
+5.323644,205.13,2,1.0,2,2,56,91.0,40.639975,-73.808787,Entire home/apt,Guest suite,Real Bed,strict,NYC,False,f,t,t
+5.377914,216.57,2,2.0,3,3,35,87.0,42.324746,-71.035423,Entire home/apt,Studio,Pull-out Sofa,flexible,Boston,False,t,t,f
+5.390805,219.38,2,1.0,1,2,9,91.0,33.951034,-118.449532,Entire home/apt,Cabin,Real Bed,strict,LA,False,f,f,t
+5.39199,219.64,3,1.5,1,1,26,100.0,38.99401,-76.955957,Entire home/apt,Apartment,Real Bed,moderate,DC,True,f,t,t
+5.17852,177.42,3,1.0,2,2,4,87.0,34.075409,-118.314628,Entire home/apt,Apartment,Real Bed,moderate,LA,False,t,t,f
+5.289983,198.34,4,1.0,4,4,4,87.0,34.03308,-118.288406,Entire home/apt,Studio,Real Bed,flexible,LA,False,f,t,t
+4.939497,139.7,3,1.0,1,1,35,100.0,34.097816,-118.224653,Entire home/apt,Apartment,Real Bed,flexible,LA,False,t,t,t
+3.313458,27.48,1,2.0,1,1,24,97.0,42.428002,-71.106221,Shared room,Condo,Real Bed,strict,Boston,True,t,t,t
+5.226177,186.08,2,1.0,5,5,8,100.0,34.147129,-118.537443,Entire home/apt,Bungalow,Real Bed,super_strict_30,LA,False,f,t,t
+5.367843,214.4,2,2.5,4,4,6,98.0,34.225293,-118.488274,Entire home/apt,Apartment,Pull-out Sofa,strict,LA,True,t,t,t
+4.313078,74.67,6,1.0,2,2,43,99.0,41.975913,-87.494027,Private room,Loft,Real Bed,strict,Chicago,True,t,t,f
+5.454637,233.84,4,2.0,2,2,10,94.0,42.364673,-71.143241,Entire home/apt,Studio,Real Bed,strict,Boston,True,f,t,f
+5.173774,176.58,4,2.0,2,2,2,98.0,41.623598,-87.419292,Entire home/apt,Condo,Real Bed,strict,Chicago,True,t,t,f
+4.599856,99.47,2,1.0,3,3,16,98.0,38.902208,-76.996897,Private room,Apartment,Real Bed,super_strict_30,DC,False,t,t,t
+4.858183,128.79,3,2.0,2,2,6,93.0,40.628342,-73.901975,Shared room,Apartment,Real Bed,strict,NYC,False,f,t,t
+5.28112,196.59,2,1.0,2,3,1,94.0,42.329161,-71.164258,Entire home/apt,Townhouse,Real Bed,flexible,Boston,False,f,t,t
+4.907495,135.3,2,3.0,1,1,35,88.0,34.105352,-118.343774,Entire home/apt,Apartment,Real Bed,strict,LA,True,t,t,t
+2.70805,15.0,8,1.0,4,5,0,,42.321044,-71.129574,Private room,Apartment,Real Bed,moderate,Boston,False,t,t,t
+4.602166,99.7,1,1.0,1,1,14,98.0,41.765078,-87.8466,Entire home/apt,Apartment,Real Bed,flexible,Chicago,True,t,t,f
+5.678704,292.57,2,2.0,1,1,6,86.0,37.943858,-122.515595,Entire home/apt,Loft,Real Bed,strict,SF,False,f,t,f
+4.310665,74.49,2,1.0,2,2,15,92.0,42.438932,-70.978159,Private room,Villa,Futon,flexible,Boston,True,f,t,t
+5.444061,231.38,2,1.0,4,4,87,95.0,33.92897,-118.157336,Entire home/apt,Apartment,Real Bed,flexible,LA,False,t,t,t
+5.497824,244.16,4,1.0,2,2,37,83.0,40.652849,-74.133866,Entire home/apt,Townhouse,Futon,strict,NYC,True,t,t,t
+4.893727,133.45,4,1.0,1,2,25,88.0,37.610139,-122.254977,Private room,Condo,Real Bed,moderate,SF,True,t,t,t
+5.301811,200.7,2,2.5,1,1,3,91.0,39.086333,-77.117682,Entire home/apt,House,Real Bed,flexible,DC,True,t,t,f
+5.590427,267.85,5,1.5,2,2,1,100.0,42.277119,-71.060489,Entire home/apt,House,Real Bed,flexible,Boston,False,f,t,f
+5.567237,261.71,3,1.5,3,4,34,87.0,42.482298,-71.013037,Entire home/apt,Apartment,Couch,moderate,Boston,True,t,t,t
+4.96898,143.88,2,1.5,2,2,30,96.0,41.841301,-87.791984,Entire home/apt,Apartment,Real Bed,strict,Chicago,False,f,t,t
+4.690614,108.92,2,1.0,1,1,40,95.0,34.030396,-118.592799,Private room,House,Real Bed,moderate,LA,True,f,t,t
+4.648325,104.41,4,2.0,1,1,14,100.0,42.027274,-87.729998,Private room,Bungalow,Real Bed,moderate,Chicago,True,f,t,t
+5.5576,259.2,4,1.0,1,1,12,95.0,40.881248,-73.840377,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,t,t
+5.808353,333.07,3,1.0,3,3,19,97.0,37.676809,-122.266657,Entire home/apt,Condo,Real Bed,moderate,SF,False,f,t,f
+5.011035,150.06,4,1.0,1,1,9,100.0,34.259721,-118.054148,Entire home/apt,Apartment,Real Bed,flexible,LA,True,t,t,t
+4.88907,132.83,1,1.0,3,4,12,92.0,41.637448,-87.84692,Entire home/apt,House,Real Bed,super_strict_30,Chicago,True,f,t,t
+5.658053,286.59,2,1.0,1,2,6,96.0,40.668685,-74.180039,Entire home/apt,Loft,Real Bed,moderate,NYC,True,t,t,f
+5.522301,250.21,2,1.0,6,6,8,83.0,34.254785,-118.660643,Entire home/apt,Apartment,Real Bed,moderate,LA,True,f,t,t
+5.516006,248.64,3,1.0,2,3,59,92.0,38.930266,-77.149554,Entire home/apt,Apartment,Real Bed,strict,DC,True,f,t,f
+4.561845,95.76,2,2.0,2,2,14,95.0,33.835474,-118.268365,Private room,Condo,Futon,strict,LA,True,t,t,f
+5.248917,190.36,2,1.0,3,3,17,91.0,34.247938,-118.428419,Entire home/apt,Cabin,Real Bed,flexible,LA,True,f,t,t
+5.113132,166.19,5,1.5,2,2,1,93.0,42.316167,-71.11517,Private room,Guest suite,Real Bed,moderate,Boston,False,t,t,f
+5.062342,157.96,2,1.0,2,2,5,97.0,42.217537,-71.110021,Entire home/apt,Loft,Real Bed,strict,Boston,True,f,t,f
+2.70805,15.0,2,1.5,3,3,0,,37.7473,-122.110484,Entire home/apt,Apartment,Real Bed,strict,SF,True,t,t,t
+5.557175,259.09,4,1.0,3,4,1,79.0,34.22665,-118.557204,Entire home/apt,Townhouse,Real Bed,moderate,LA,True,t,t,t
+5.04671,155.51,2,1.0,3,3,3,95.0,41.771513,-87.405938,Entire home/apt,Apartment,Couch,moderate,Chicago,True,f,t,t
+5.451124,233.02,8,1.0,1,1,32,91.0,34.063538,-118.400154,Entire home/apt,Studio,Real Bed,strict,LA,True,t,t,t
+4.814945,123.34,2,1.0,2,3,71,74.0,40.611478,-73.720564,Private room,Apartment,Real Bed,strict,NYC,False,t,t,f
+5.743548,312.17,8,1.0,1,1,8,90.0,40.886623,-73.727646,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,t,t,t
+5.569718,262.36,6,1.0,1,2,25,94.0,37.813329,-122.397177,Entire home/apt,Townhouse,Real Bed,strict,SF,True,t,t,t
+4.204245,66.97,2,3.0,3,3,9,100.0,40.693669,-73.802993,Shared room,Studio,Real Bed,strict,NYC,True,f,t,t
+5.059235,157.47,3,1.0,1,1,43,93.0,34.220788,-118.291826,Entire home/apt,Loft,Real Bed,flexible,LA,True,t,f,t
+4.848665,127.57,4,2.5,1,2,12,94.0,41.943885,-87.763263,Entire home/apt,Apartment,Real Bed,moderate,Chicago,True,t,t,f
+4.762516,117.04,2,1.0,2,2,90,97.0,41.957992,-87.596338,Entire home/apt,Apartment,Real Bed,moderate,Chicago,False,t,t,t
+4.338597,76.6,2,2.0,2,2,4,99.0,40.71792,-74.137178,Private room,Apartment,Real Bed,strict,NYC,True,t,t,t
+5.647953,283.71,2,3.0,2,3,6,100.0,37.943329,-122.177568,Entire home/apt,Apartment,Real Bed,strict,SF,False,t,t,t
+4.419684,83.07,1,1.5,2,2,28,96.0,37.843873,-122.142451,Private room,Apartment,Real Bed,strict,SF,True,f,t,t
+4.640151,103.56,2,1.0,4,4,15,85.0,40.685594,-74.133358,Private room,House,Real Bed,moderate,NYC,True,f,t,t
+2.70805,15.0,4,1.5,2,3,0,,42.391689,-71.175566,Private room,Condo,Real Bed,strict,Boston,True,f,t,t
+5.054269,156.69,2,2.0,1,1,38,89.0,34.075633,-118.647305,Entire home/apt,Condo,Pull-out Sofa,flexible,LA,True,t,t,f
+5.821684,337.54,4,1.5,1,1,7,90.0,37.972269,-122.587678,Entire home/apt,Guest suite,Real Bed,strict,SF,True,t,f,t
+3.831463,46.13,4,1.5,2,3,38,98.0,41.95075,-87.670328,Shared room,Bungalow,Real Bed,strict,Chicago,False,t,t,t
+4.783818,119.56,1,1.0,3,3,2,88.0,34.093306,-118.672142,Private room,Condo,Real Bed,moderate,LA,True,f,t,t
+5.321155,204.62,4,1.0,1,2,2,94.0,42.473336,-70.953848,Entire home/apt,House,Real Bed,strict,Boston,False,t,t,t
+5.678225,292.43,2,1.0,1,1,18,99.0,37.927798,-122.436631,Entire home/apt,Apartment,Real Bed,moderate,SF,True,f,t,t
+5.704349,300.17,4,1.0,2,2,21,82.0,37.673641,-122.547175,Entire home/apt,Loft,Real Bed,moderate,SF,True,f,t,f
+4.977974,145.18,4,1.5,2,2,27,100.0,38.770356,-77.105847,Private room,Condo,Pull-out Sofa,flexible,DC,False,t,t,t
+5.286953,197.74,2,1.0,2,2,11,92.0,40.893636,-74.053876,Entire home/apt,Loft,Real Bed,strict,NYC,True,f,t,t
+5.25614,191.74,2,2.5,3,3,7,84.0,33.75581,-118.599292,Entire home/apt,Townhouse,Real Bed,strict,LA,False,f,t,t
+4.994912,147.66,2,2.5,1,2,25,87.0,41.914367,-87.766949,Entire home/apt,Apartment,Real Bed,flexible,Chicago,True,f,t,t
+5.682014,293.54,4,2.0,5,5,12,89.0,42.33133,-71.106889,Entire home/apt,Villa,Airbed,flexible,Boston,False,f,t,t
+5.533548,253.04,4,1.5,1,1,5,96.0,37.860912,-122.397401,Entire home/apt,Apartment,Futon,strict,SF,True,f,t,f
+4.484809,88.66,2,1.5,1,2,83,93.0,40.885741,-74.118136,Private room,Apartment,Pull-out Sofa,super_strict_30,NYC,False,f,t,t
+5.49991,244.67,8,1.0,2,3,2,90.0,37.832307,-122.135618,Private room,Apartment,Real Bed,moderate,SF,False,t,t,t
+4.995657,147.77,4,1.0,1,1,35,92.0,34.057249,-118.079383,Private room,Loft,Real Bed,moderate,LA,False,f,t,t
+5.22203,185.31,4,1.0,1,1,41,83.0,39.045516,-77.037291,Entire home/apt,Apartment,Real Bed,flexible,DC,True,f,t,f
+5.482138,240.36,1,1.5,3,3,21,94.0,40.831976,-73.992186,Entire home/apt,Condo,Real Bed,moderate,NYC,False,f,t,t
+5.31812,204.0,2,1.0,3,4,14,90.0,38.776926,-77.014425,Entire home/apt,House,Real Bed,strict,DC,False,f,t,t
+3.608483,36.91,2,1.5,2,2,57,91.0,37.884169,-122.390538,Shared room,House,Real Bed,moderate,SF,False,t,t,t
+5.205873,182.34,6,1.5,1,1,49,92.0,42.223588,-71.100726,Private room,Apartment,Real Bed,flexible,Boston,True,f,t,t
+5.295463,199.43,2,2.0,1,2,38,88.0,38.758643,-77.136133,Entire home/apt,Apartment,Real Bed,moderate,DC,True,t,t,f
+5.06947,159.09,4,1.5,3,3,38,100.0,40.816524,-74.099544,Private room,Apartment,Real Bed,strict,NYC,False,f,t,f
+2.70805,15.0,3,2.5,2,2,24,94.0,37.929063,-122.593359,Shared room,Apartment,Real Bed,moderate,SF,True,t,t,f
+5.301712,200.68,3,1.5,1,1,16,100.0,33.743739,-118.261217,Entire home/apt,Condo,Real Bed,strict,LA,False,f,t,f
+3.847804,46.89,2,1.0,3,4,45,88.0,41.664451,-87.540002,Shared room,House,Real Bed,strict,Chicago,False,t,t,t
+5.227895,186.4,4,2.0,2,2,31,87.0,37.642319,-122.34693,Private room,Apartment,Real Bed,flexible,SF,True,t,t,f
+5.308466,202.04,3,1.0,4,4,2,92.0,33.843307,-118.035503,Entire home/apt,Studio,Real Bed,moderate,LA,True,f,t,t
+5.513671,248.06,3,2.5,2,2,5,89.0,34.125578,-118.685195,Entire home/apt,Apartment,Real Bed,moderate,LA,True,t,t,f
+5.644881,282.84,4,2.0,1,1,4,89.0,37.797212,-122.559031,Entire home/apt,Apartment,Real Bed,flexible,SF,False,t,t,t
+5.613384,274.07,8,1.5,1,1,33,93.0,42.352918,-71.10998,Entire home/apt,Apartment,Real Bed,strict,Boston,True,t,f,f
+5.113493,166.25,2,2.0,3,3,4,87.0,37.804904,-122.356313,Private room,House,Real Bed,flexible,SF,True,t,t,f
+5.266259,193.69,1,2.0,3,3,14,93.0,33.944445,-118.009401,Entire home/apt,Apartment,Real Bed,flexible,LA,True,t,t,t
+4.985864,146.33,2,1.0,1,1,35,89.0,40.815214,-74.051393,Private room,House,Real Bed,moderate,NYC,True,t,f,t
+4.307842,74.28,4,1.0,1,1,64,100.0,41.729279,-87.731394,Private room,Condo,Real Bed,flexible,Chicago,True,f,t,t
+5.235218,187.77,4,1.0,1,1,10,91.0,33.763483,-118.260255,Entire home/apt,House,Real Bed,strict,LA,True,f,t,t
+4.772716,118.24,4,1.0,6,6,28,100.0,33.751681,-118.375333,Private room,House,Real Bed,moderate,LA,False,f,t,f
+5.30698,201.74,4,1.0,1,2,87,86.0,40.538951,-74.048467,Entire home/apt,House,Real Bed,strict,NYC,True,f,t,t
+5.222246,185.35,2,2.0,3,3,44,100.0,42.329635,-70.910023,Entire home/apt,House,Real Bed,strict,Boston,False,f,t,t
+4.394819,81.03,2,1.5,1,1,10,91.0,37.777251,-122.411905,Shared room,Apartment,Pull-out Sofa,strict,SF,False,t,t,f
+4.986616,146.44,2,1.0,4,4,4,79.0,42.075372,-87.69565,Entire home/apt,House,Real Bed,moderate,Chicago,True,f,t,t
+5.240688,188.8,4,1.0,1,1,38,92.0,40.667083,-74.163457,Private room,House,Real Bed,flexible,NYC,True,t,t,t
+5.851052,347.6,6,2.5,2,2,13,96.0,40.732858,-74.021615,Entire home/apt,Apartment,Real Bed,super_strict_30,NYC,True,f,t,t
+2.70805,15.0,2,1.5,1,2,0,,41.723328,-87.670193,Private room,Apartment,Futon,strict,Chicago,False,f,t,t
+5.448761,232.47,2,3.0,3,3,25,91.0,39.049344,-77.176095,Entire home/apt,Loft,Real Bed,moderate,DC,True,t,t,f
+5.255305,191.58,1,1.0,3,3,97,88.0,42.278682,-71.069179,Entire home/apt,Apartment,Real Bed,super_strict_30,Boston,True,f,t,t
+5.046453,155.47,4,1.0,5,5,28,93.0,40.715678,-73.715593,Private room,Loft,Real Bed,moderate,NYC,True,f,t,t
+5.194178,180.22,2,1.5,3,3,65,97.0,33.733216,-118.323315,Entire home/apt,House,Pull-out Sofa,super_strict_30,LA,True,t,t,f
+5.144233,171.44,4,1.0,5,5,4,96.0,40.653444,-73.987814,Private room,Loft,Real Bed,strict,NYC,True,f,t,t
+5.326856,205.79,6,1.0,1,1,14,96.0,42.057569,-87.472742,Entire home/apt,Apartment,Real Bed,flexible,Chicago,True,f,t,t
+5.434159,229.1,3,2.0,1,1,34,89.0,39.036646,-76.978152,Entire home/apt,Loft,Pull-out Sofa,strict,DC,False,t,t,t
+4.80484,122.1,4,1.0,3,4,18,85.0,42.33262,-71.099769,Private room,Apartment,Real Bed,moderate,Boston,False,t,t,t
+5.033114,153.41,2,1.5,1,2,3,100.0,34.03607,-118.429476,Entire home/apt,Apartment,Real Bed,strict,LA,True,t,t,t
+4.577079,97.23,1,1.0,3,3,24,87.0,33.729489,-118.566257,Entire home/apt,Apartment,Real Bed,strict,LA,False,f,t,t
+5.225854,186.02,4,1.0,1,1,10,93.0,41.658374,-87.835467,Entire home/apt,Apartment,Real Bed,strict,Chicago,False,f,t,t
+2.70805,15.0,2,1.0,1,1,2,90.0,34.024496,-118.127148,Private room,Apartment,Pull-out Sofa,strict,LA,True,t,t,f
+4.679535,107.72,2,1.5,1,1,1,100.0,40.817654,-73.952701,Private room,Condo,Real Bed,strict,NYC,True,t,t,t
+5.430266,228.21,4,2.0,2,2,8,90.0,42.371685,-71.067444,Entire home/apt,House,Futon,strict,Boston,True,t,t,t
+5.115236,166.54,4,1.0,1,1,43,84.0,37.822118,-122.33621,Private room,Studio,Real Bed,moderate,SF,False,t,t,t
+5.300315,200.4,1,1.0,2,2,18,97.0,38.842212,-76.876457,Entire home/apt,Studio,Real Bed,strict,DC,False,t,t,f
+5.670536,290.19,2,1.0,5,5,2,83.0,37.716479,-122.213866,Entire home/apt,Loft,Real Bed,moderate,SF,True,f,t,t
+4.846625,127.31,2,2.5,1,2,3,96.0,40.501532,-74.080938,Private room,House,Real Bed,flexible,NYC,True,t,t,t
+2.70805,15.0,2,3.0,3,3,0,,42.334875,-70.948941,Entire home/apt,Apartment,Real Bed,strict,Boston,True,f,t,t
+5.75362,315.33,6,2.0,1,1,12,86.0,40.614903,-73.831603,Entire home/apt,Apartment,Pull-out Sofa,strict,NYC,True,f,t,t
+5.782501,324.57,4,1.0,6,6,8,92.0,40.539218,-73.936591,Entire home/apt,House,Real Bed,moderate,NYC,True,f,t,f
+4.624482,101.95,2,1.0,2,2,43,83.0,34.125871,-118.362442,Private room,Loft,Real Bed,moderate,LA,True,t,t,f
+5.431055,228.39,4,1.0,3,4,3,92.0,42.490407,-70.925575,Entire home/apt,Villa,Real Bed,flexible,Boston,False,t,t,t
+5.165985,175.21,5,1.0,2,2,52,84.0,34.27466,-118.645601,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,True,f,t,t
+5.721786,305.45,2,2.0,2,2,32,94.0,37.682355,-122.439157,Entire home/apt,House,Couch,moderate,SF,True,t,t,t
+5.571622,262.86,2,2.0,4,5,4,92.0,42.211335,-71.006989,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,t,t,t
+4.971756,144.28,2,1.0,2,3,5,88.0,41.882944,-87.592224,Entire home/apt,House,Couch,flexible,Chicago,True,t,t,t
+4.657193,105.34,2,2.5,1,1,36,89.0,39.046861,-76.930797,Private room,Condo,Real Bed,flexible,DC,True,f,t,t
+5.131731,169.31,4,1.0,2,3,68,88.0,41.86567,-87.70014,Entire home/apt,Apartment,Futon,flexible,Chicago,True,f,t,f
+5.52286,250.35,2,1.5,1,1,38,95.0,37.908497,-122.580594,Entire home/apt,Studio,Real Bed,strict,SF,True,f,t,f
+4.856707,128.6,2,1.0,1,2,19,84.0,42.400111,-70.926527,Private room,Studio,Real Bed,moderate,Boston,True,t,t,f
+5.382107,217.48,2,1.0,2,2,15,83.0,40.846258,-74.079325,Entire home/apt,Villa,Real Bed,moderate,NYC,True,f,t,t
+5.139908,170.7,3,3.0,2,2,19,88.0,41.822865,-87.481941,Entire home/apt,Villa,Couch,strict,Chicago,True,f,t,t
+4.352083,77.64,2,1.0,3,3,14,82.0,33.994269,-118.616177,Private room,Loft,Real Bed,strict,LA,True,f,t,f
+4.37349,79.32,4,1.5,1,1,12,96.0,42.386952,-71.177671,Private room,Guest suite,Real Bed,strict,Boston,True,t,t,t
+4.670583,106.76,4,1.5,2,2,2,92.0,34.253934,-118.217504,Private room,House,Real Bed,moderate,LA,True,f,t,t
+4.476882,87.96,1,2.5,1,1,46,87.0,38.866365,-76.911867,Private room,Apartment,Real Bed,strict,DC,True,t,t,t
+5.900527,365.23,4,1.0,3,4,8,97.0,40.878049,-74.058666,Entire home/apt,Townhouse,Pull-out Sofa,flexible,NYC,True,f,t,t
+5.693261,296.86,4,2.5,1,1,30,89.0,40.587624,-73.97848,Entire home/apt,Loft,Pull-out Sofa,strict,NYC,False,t,t,f
+3.631515,37.77,3,1.0,2,2,1,95.0,40.843899,-73.970873,Shared room,Studio,Real Bed,strict,NYC,True,f,t,f
+5.136151,170.06,2,1.0,3,3,56,87.0,34.055541,-118.434053,Private room,Apartment,Real Bed,flexible,LA,True,f,t,t
+5.113914,166.32,3,1.5,1,2,2,92.0,34.260392,-118.571494,Entire home/apt,House,Real Bed,strict,LA,False,t,t,t
+4.86082,129.13,3,1.5,1,1,6,83.0,37.652626,-122.448862,Private room,House,Real Bed,moderate,SF,True,f,t,f
+5.681469,293.38,2,2.0,4,5,24,96.0,40.845108,-74.118549,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,t,t
+5.123785,167.97,1,1.5,1,1,36,94.0,42.223775,-71.142553,Entire home/apt,Townhouse,Real Bed,moderate,Boston,True,t,t,t
+5.193568,180.11,2,1.0,2,2,21,78.0,37.68313,-122.347965,Entire home/apt,Bungalow,Real Bed,flexible,SF,True,f,t,t
+4.649474,104.53,3,3.0,1,1,12,94.0,42.282412,-70.933675,Private room,Condo,Real Bed,flexible,Boston,True,t,t,t
+5.154851,173.27,2,3.0,1,1,16,97.0,41.841178,-87.548567,Entire home/apt,Bungalow,Real Bed,moderate,Chicago,True,t,t,t
+5.467638,236.9,3,1.0,2,2,26,87.0,40.695729,-73.943712,Entire home/apt,Apartment,Pull-out Sofa,super_strict_30,NYC,True,f,t,t
+3.408173,30.21,3,1.5,2,3,13,82.0,34.024367,-118.10528,Private room,Guest suite,Real Bed,flexible,LA,False,t,t,f
+5.340514,208.62,4,1.5,1,1,2,90.0,33.95859,-118.577649,Entire home/apt,Apartment,Futon,strict,LA,True,f,t,t
+5.39694,220.73,2,2.0,2,2,25,94.0,38.799961,-77.17376,Entire home/apt,Apartment,Couch,moderate,DC,True,t,t,f
+5.271665,194.74,2,1.0,2,2,4,100.0,33.751546,-118.200117,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,False,f,t,t
+5.513429,248.0,2,1.0,3,3,5,86.0,37.711841,-122.536296,Entire home/apt,House,Real Bed,flexible,SF,True,t,t,t
+4.7098,111.03,2,1.0,2,2,20,93.0,40.661882,-74.087396,Private room,Apartment,Real Bed,moderate,NYC,True,f,t,f
+4.463376,86.78,4,2.0,3,3,24,82.0,37.605106,-122.164224,Private room,Apartment,Real Bed,moderate,SF,False,f,t,t
+5.712114,302.51,2,1.0,4,4,41,88.0,40.58514,-73.865623,Entire home/apt,House,Real Bed,strict,NYC,True,f,t,t
+5.738442,310.58,2,1.0,5,5,1,93.0,40.647753,-73.947095,Entire home/apt,House,Couch,moderate,NYC,False,t,t,f
+5.489392,242.11,2,1.0,1,1,9,95.0,37.761861,-122.403159,Entire home/apt,Condo,Real Bed,strict,SF,True,f,t,f
+5.712973,302.77,4,1.0,3,3,36,92.0,40.794208,-73.868104,Entire home/apt,Loft,Real Bed,strict,NYC,True,t,t,t
+4.446409,85.32,1,1.0,2,2,54,88.0,34.123298,-118.229755,Private room,Townhouse,Real Bed,strict,LA,True,t,t,f
+5.626829,277.78,2,3.0,4,4,4,86.0,38.932091,-76.838386,Entire home/apt,Loft,Real Bed,flexible,DC,True,f,t,t
+5.248759,190.33,2,1.0,3,3,18,85.0,40.562894,-73.854689,Private room,Apartment,Real Bed,moderate,NYC,False,f,t,f
+5.52286,250.35,3,1.0,3,3,8,93.0,42.33149,-71.121192,Entire home/apt,Townhouse,Real Bed,moderate,Boston,True,t,t,t
+5.132204,169.39,2,2.0,1,1,22,87.0,33.723017,-118.264975,Entire home/apt,Apartment,Real Bed,flexible,LA,False,f,t,t
+5.518256,249.2,2,1.0,4,4,61,100.0,37.81195,-122.292548,Entire home/apt,Condo,Real Bed,strict,SF,False,f,t,t
+3.691875,40.12,1,1.0,2,3,7,92.0,42.098342,-87.524605,Private room,Apartment,Real Bed,strict,Chicago,True,t,t,t
+5.660979,287.43,4,1.0,1,1,56,100.0,40.670357,-73.707238,Entire home/apt,House,Real Bed,moderate,NYC,True,t,t,t
+4.341855,76.85,2,1.0,3,3,5,93.0,40.766109,-74.160651,Private room,Townhouse,Real Bed,flexible,NYC,False,t,t,f
+5.191289,179.7,4,1.0,2,2,6,94.0,42.040859,-87.45409,Entire home/apt,House,Real Bed,flexible,Chicago,True,t,t,f
+2.70805,15.0,2,1.5,2,2,0,,40.636419,-73.798348,Entire home/apt,Condo,Real Bed,strict,NYC,True,t,t,t
+5.211451,183.36,1,2.5,3,3,23,87.0,42.211346,-71.163084,Entire home/apt,House,Real Bed,strict,Boston,True,f,t,t
+5.520661,249.8,4,1.0,1,1,15,93.0,42.306327,-71.085656,Entire home/apt,Apartment,Real Bed,strict,Boston,True,t,t,t
+4.916691,136.55,2,1.0,2,2,20,86.0,34.221459,-118.302177,Private room,House,Pull-out Sofa,super_strict_30,LA,True,f,t,t
+5.287863,197.92,4,1.0,2,2,12,83.0,33.781823,-118.562318,Entire home/apt,House,Pull-out Sofa,strict,LA,True,f,t,t
+5.872371,355.09,6,1.0,1,1,48,100.0,40.761511,-74.006475,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,t,f
+5.654452,285.56,5,2.0,1,1,15,90.0,38.896245,-76.860493,Entire home/apt,Apartment,Real Bed,moderate,DC,True,t,t,t
+5.075299,160.02,2,2.0,1,1,14,91.0,41.868747,-87.87535,Entire home/apt,Apartment,Futon,moderate,Chicago,False,t,t,t
+5.567275,261.72,2,1.0,3,4,4,95.0,40.738689,-74.031399,Entire home/apt,Condo,Real Bed,flexible,NYC,True,f,t,f
+5.486952,241.52,2,2.0,2,2,59,93.0,37.622853,-122.153113,Entire home/apt,House,Real Bed,moderate,SF,True,t,t,f
+4.719302,112.09,4,1.0,2,2,49,85.0,34.253036,-118.169772,Private room,Villa,Real Bed,flexible,LA,True,t,t,t
+4.157006,63.88,2,1.0,3,3,8,90.0,41.70476,-87.672336,Private room,Apartment,Real Bed,strict,Chicago,False,f,t,t
+5.454295,233.76,5,1.5,2,2,22,96.0,42.431672,-71.058036,Entire home/apt,Condo,Real Bed,flexible,Boston,True,t,t,t
+5.395444,220.4,4,1.0,2,3,22,89.0,39.017754,-77.160413,Entire home/apt,Studio,Real Bed,strict,DC,True,f,t,t
+4.776936,118.74,2,1.5,1,1,3,91.0,37.984107,-122.253415,Private room,Apartment,Couch,super_strict_30,SF,True,f,t,f
+5.318463,204.07,3,2.5,2,2,13,82.0,41.807423,-87.533638,Entire home/apt,Apartment,Real Bed,moderate,Chicago,False,t,t,t
+4.869302,130.23,2,1.0,2,2,28,91.0,38.934345,-76.809569,Private room,Apartment,Real Bed,moderate,DC,True,f,t,f
+5.113252,166.21,3,2.0,4,4,15,86.0,33.868278,-118.188228,Private room,Apartment,Real Bed,moderate,LA,True,f,t,f
+5.396623,220.66,2,1.0,2,2,20,92.0,40.772584,-74.168232,Entire home/apt,House,Real Bed,strict,NYC,False,f,t,f
+4.107261,60.78,4,2.5,2,2,16,95.0,37.753983,-122.398853,Shared room,House,Real Bed,flexible,SF,True,f,t,t
+4.127941,62.05,2,1.5,2,2,7,84.0,41.718004,-87.534743,Shared room,Apartment,Real Bed,moderate,Chicago,True,f,t,t
+5.734829,309.46,8,1.0,2,3,8,89.0,40.626674,-73.861348,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,t,t,t
+5.765473,319.09,5,1.0,2,2,31,92.0,37.751785,-122.346725,Entire home/apt,Apartment,Real Bed,moderate,SF,True,t,t,t
+4.95871,142.41,2,2.0,1,1,16,91.0,34.178169,-118.286702,Entire home/apt,Apartment,Real Bed,strict,LA,True,t,t,t
+5.447771,232.24,2,1.0,3,3,35,98.0,40.600726,-73.709485,Entire home/apt,Condo,Pull-out Sofa,strict,NYC,True,t,t,f
+5.147611,172.02,1,1.5,2,2,1,96.0,38.99688,-76.996106,Private room,Apartment,Real Bed,strict,DC,True,f,t,t
+5.463959,236.03,4,2.0,2,2,25,95.0,34.070617,-118.248904,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,True,t,t,f
+4.600057,99.49,2,1.0,1,1,6,92.0,40.658298,-74.050664,Private room,Loft,Real Bed,strict,NYC,True,t,t,t
+5.00455,149.09,4,1.0,1,1,13,96.0,42.440923,-71.070458,Private room,Studio,Real Bed,flexible,Boston,False,t,t,f
+5.310542,202.46,4,1.0,3,4,22,93.0,41.698657,-87.741372,Entire home/apt,Guest suite,Real Bed,moderate,Chicago,False,f,t,t
+5.208666,182.85,2,1.0,1,1,2,91.0,37.758756,-122.228228,Entire home/apt,Apartment,Real Bed,strict,SF,False,t,t,t
+5.186268,178.8,2,1.5,2,3,19,93.0,38.735853,-76.816306,Entire home/apt,Apartment,Real Bed,moderate,DC,True,f,f,t
+4.631423,102.66,4,1.0,4,4,10,94.0,41.775136,-87.673909,Private room,Condo,Real Bed,moderate,Chicago,True,t,t,t
+5.343625,209.27,2,1.0,2,2,8,90.0,40.735081,-74.167978,Entire home/apt,Loft,Real Bed,strict,NYC,True,t,t,f
+4.034418,56.51,4,1.0,2,2,43,94.0,42.402055,-71.165497,Shared room,Apartment,Real Bed,flexible,Boston,True,t,t,t
+2.70805,15.0,2,2.0,5,6,0,,38.788052,-77.087225,Entire home/apt,Guest suite,Real Bed,strict,DC,True,t,t,t
+4.751519,115.76,6,1.0,1,2,15,91.0,42.269475,-71.145635,Private room,Apartment,Real Bed,strict,Boston,False,f,t,t
+4.515027,91.38,3,1.0,1,1,29,94.0,33.700246,-118.282672,Private room,Apartment,Couch,super_strict_30,LA,True,t,f,t
+5.275918,195.57,2,1.0,5,5,33,95.0,40.772018,-73.882422,Private room,Condo,Real Bed,moderate,NYC,True,f,t,t
+5.22041,185.01,4,1.0,4,4,54,94.0,33.754622,-118.246254,Entire home/apt,Apartment,Futon,moderate,LA,False,t,t,t
+5.164329,174.92,2,1.0,4,5,10,83.0,38.814747,-77.092568,Entire home/apt,Condo,Real Bed,strict,DC,False,t,t,t
+5.849238,346.97,2,2.0,2,2,11,95.0,37.962897,-122.229843,Entire home/apt,Apartment,Real Bed,strict,SF,True,f,t,t
+5.611448,273.54,4,1.0,1,1,11,100.0,37.964406,-122.103418,Entire home/apt,Condo,Real Bed,strict,SF,True,t,t,f
+3.33577,28.1,8,1.0,1,2,7,90.0,42.406027,-70.997734,Shared room,Apartment,Real Bed,flexible,Boston,True,f,t,f
+4.56861,96.41,4,1.0,2,2,5,88.0,41.698477,-87.693621,Private room,House,Real Bed,strict,Chicago,True,t,t,f
+5.775669,322.36,5,1.0,2,2,6,83.0,37.924292,-122.126415,Entire home/apt,House,Real Bed,flexible,SF,True,f,t,t
+5.394809,220.26,3,1.0,1,2,8,85.0,40.534776,-74.088525,Entire home/apt,Apartment,Real Bed,strict,NYC,True,f,t,t
+5.790297,327.11,6,2.5,3,4,29,84.0,38.901288,-77.172881,Entire home/apt,Apartment,Real Bed,strict,DC,True,t,t,t
+5.279287,196.23,3,1.5,4,4,5,96.0,37.742387,-122.457948,Private room,House,Futon,strict,SF,True,f,t,t
+5.136328,170.09,1,1.0,1,1,15,88.0,37.65982,-122.54808,Entire home/apt,House,Airbed,moderate,SF,True,t,t,t
+5.298667,200.07,2,1.0,1,1,35,95.0,37.916784,-122.536409,Entire home/apt,Guest suite,Pull-out Sofa,flexible,SF,True,f,t,t
+5.525772,251.08,2,1.5,2,2,18,90.0,37.788703,-122.35209,Entire home/apt,House,Real Bed,super_strict_30,SF,True,f,t,t
+4.977285,145.08,2,1.0,2,2,106,93.0,38.97466,-76.863457,Private room,Apartment,Real Bed,strict,DC,True,f,t,t
+5.286042,197.56,2,1.0,3,3,1,89.0,40.851412,-74.049083,Entire home/apt,Apartment,Real Bed,strict,NYC,True,t,f,t
+5.608079,272.62,3,1.0,2,2,6,99.0,37.950517,-122.590478,Entire home/apt,Apartment,Real Bed,strict,SF,False,t,t,f
+5.086052,161.75,1,1.0,3,3,43,93.0,38.94625,-77.194897,Entire home/apt,Apartment,Futon,moderate,DC,True,f,t,f
+4.980039,145.48,4,2.5,1,1,19,100.0,33.965748,-118.676077,Private room,Apartment,Futon,flexible,LA,True,t,t,t
+5.086732,161.86,2,1.0,4,4,53,89.0,39.012209,-76.897825,Private room,Condo,Real Bed,flexible,DC,True,t,t,t
+4.728626,113.14,4,1.0,2,2,16,100.0,38.715281,-76.953914,Private room,House,Airbed,strict,DC,True,f,t,t
+5.3318,206.81,2,1.0,1,1,10,94.0,38.825348,-77.015055,Entire home/apt,Apartment,Real Bed,super_strict_30,DC,True,f,t,f
+5.379575,216.93,2,2.0,2,2,41,90.0,42.382759,-70.944048,Entire home/apt,Studio,Pull-out Sofa,super_strict_30,Boston,True,t,t,t
+5.494665,243.39,4,1.0,2,2,8,82.0,34.13226,-118.249361,Entire home/apt,House,Real Bed,moderate,LA,True,t,t,t
+4.744845,114.99,2,1.0,4,4,83,87.0,38.74317,-76.827222,Private room,House,Real Bed,strict,DC,True,t,t,t
+5.242117,189.07,3,1.0,3,3,36,97.0,41.619437,-87.570529,Entire home/apt,Condo,Real Bed,moderate,Chicago,True,t,t,t
+5.176827,177.12,2,1.5,3,3,41,90.0,34.141431,-118.551798,Entire home/apt,House,Real Bed,moderate,LA,False,f,t,t
+5.551097,257.52,3,1.0,4,4,5,87.0,42.260352,-70.92325,Entire home/apt,House,Real Bed,moderate,Boston,True,f,t,t
+5.320079,204.4,1,2.0,1,1,33,95.0,37.905314,-122.238694,Entire home/apt,House,Real Bed,moderate,SF,True,f,t,f
+5.197336,180.79,2,1.5,2,2,45,85.0,33.873362,-118.639626,Entire home/apt,Loft,Real Bed,flexible,LA,True,f,t,t
+4.608066,100.29,2,2.0,1,1,13,96.0,33.895534,-118.367041,Private room,Apartment,Real Bed,flexible,LA,True,f,t,t
+4.595625,99.05,5,1.5,3,3,6,92.0,42.432982,-71.034333,Private room,Studio,Real Bed,strict,Boston,False,t,t,t
+5.405107,222.54,3,1.0,3,3,15,99.0,33.801462,-118.611705,Entire home/apt,House,Real Bed,super_strict_30,LA,True,f,t,t
+5.449836,232.72,2,1.0,4,4,7,96.0,38.779949,-77.107256,Entire home/apt,Townhouse,Real Bed,strict,DC,True,f,t,t
+5.695213,297.44,4,2.5,3,4,39,100.0,40.537315,-73.830611,Entire home/apt,House,Real Bed,strict,NYC,False,t,t,f
+4.748231,115.38,5,1.0,1,1,1,93.0,33.941422,-118.683579,Private room,House,Real Bed,moderate,LA,False,f,t,f
+5.053886,156.63,3,2.0,1,2,14,80.0,42.236775,-70.92162,Private room,Apartment,Real Bed,moderate,Boston,True,f,t,f
+5.675177,291.54,2,2.5,4,4,22,90.0,37.699414,-122.447922,Entire home/apt,Apartment,Real Bed,strict,SF,True,t,t,t
+5.5104,247.25,3,1.0,4,4,23,99.0,40.65244,-73.840265,Entire home/apt,Loft,Real Bed,moderate,NYC,True,t,t,t
+5.43123,228.43,4,2.0,1,1,15,86.0,34.029305,-118.323172,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,True,f,t,t
+4.954841,141.86,2,1.5,3,3,6,93.0,42.304959,-70.987503,Private room,Loft,Couch,flexible,Boston,True,f,t,t
+4.437343,84.55,2,1.0,3,4,26,80.0,40.806314,-73.979399,Private room,Apartment,Real Bed,strict,NYC,False,t,t,f
+5.091293,162.6,4,3.0,4,4,9,100.0,40.850568,-74.099172,Private room,Bungalow,Real Bed,moderate,NYC,False,f,t,t
+4.516994,91.56,2,1.0,2,3,1,94.0,42.036817,-87.862223,Private room,House,Pull-out Sofa,moderate,Chicago,False,f,t,t
+4.642466,103.8,3,2.0,2,3,144,86.0,33.841244,-118.191114,Private room,Apartment,Real Bed,moderate,LA,True,f,t,f
+5.009501,149.83,2,1.0,1,1,24,91.0,34.152363,-118.622724,Entire home/apt,Condo,Real Bed,moderate,LA,True,t,t,t
+5.264347,193.32,3,2.5,2,2,38,92.0,38.775548,-76.919544,Entire home/apt,House,Real Bed,super_strict_30,DC,True,f,t,f
+4.380651,79.89,2,1.0,1,1,8,86.0,37.727479,-122.375729,Private room,Apartment,Real Bed,strict,SF,True,t,f,f
+5.321448,204.68,4,1.0,2,2,52,94.0,40.704868,-74.019929,Private room,Apartment,Real Bed,strict,NYC,True,f,t,f
+2.70805,15.0,5,1.0,2,2,0,,42.255895,-71.170082,Entire home/apt,Townhouse,Pull-out Sofa,super_strict_30,Boston,True,f,t,t
+5.373425,215.6,4,1.0,2,3,58,88.0,37.635409,-122.2955,Entire home/apt,Apartment,Real Bed,flexible,SF,True,f,t,t
+5.749425,314.01,4,1.0,2,2,61,89.0,37.784274,-122.154588,Entire home/apt,House,Real Bed,flexible,SF,True,t,t,t
+4.009875,55.14,2,1.5,3,3,9,80.0,40.542944,-74.127186,Shared room,Guest suite,Real Bed,super_strict_30,NYC,True,f,t,t
+5.515121,248.42,4,1.0,4,4,16,83.0,40.748333,-73.754502,Entire home/apt,Guest suite,Real Bed,super_strict_30,NYC,True,f,t,f
+4.629668,102.48,1,1.5,2,2,3,89.0,33.943941,-118.451065,Private room,House,Real Bed,flexible,LA,True,t,t,t
+2.70805,15.0,2,1.0,2,2,0,,41.926849,-87.513032,Entire home/apt,Apartment,Real Bed,moderate,Chicago,True,t,t,t
+4.765246,117.36,2,1.0,6,6,19,100.0,40.848882,-74.176208,Private room,Condo,Real Bed,strict,NYC,True,f,t,t
+5.715184,303.44,5,1.0,1,1,10,90.0,38.968905,-76.887042,Entire home/apt,Condo,Real Bed,flexible,DC,True,f,t,t
+5.723258,305.9,3,1.5,3,4,8,97.0,40.797841,-74.176241,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,t,t,t
+4.864144,129.56,2,1.0,3,3,17,86.0,41.825291,-87.757237,Entire home/apt,Condo,Real Bed,flexible,Chicago,True,t,t,f
+3.628864,37.67,2,1.5,2,2,35,83.0,41.773054,-87.813695,Shared room,House,Real Bed,strict,Chicago,False,f,t,f
+5.475836,238.85,2,1.0,2,2,27,92.0,37.894374,-122.530862,Entire home/apt,Apartment,Pull-out Sofa,moderate,SF,True,f,t,t
+5.599754,270.36,4,1.0,3,3,6,89.0,40.775185,-73.803772,Entire home/apt,Loft,Real Bed,strict,NYC,True,t,t,f
+5.295413,199.42,2,1.0,2,3,5,95.0,40.753622,-73.819554,Entire home/apt,Loft,Real Bed,moderate,NYC,True,f,t,f
+5.822158,337.7,8,1.0,2,2,2,99.0,40.584463,-73.948934,Entire home/apt,Loft,Real Bed,moderate,NYC,True,f,t,f
+5.54931,257.06,2,1.0,3,3,94,92.0,37.813436,-122.543447,Entire home/apt,House,Futon,strict,SF,True,f,t,t
+4.148517,63.34,2,1.5,2,2,16,96.0,41.985568,-87.569367,Shared room,Condo,Real Bed,moderate,Chicago,True,f,t,t
+4.422689,83.32,2,1.5,5,5,15,91.0,40.758381,-73.713553,Shared room,Apartment,Real Bed,strict,NYC,True,f,t,t
+5.366396,214.09,2,1.0,5,5,16,88.0,42.279009,-71.137041,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,f,t,t
+5.45737,234.48,3,1.5,3,4,1,93.0,40.824745,-73.840547,Entire home/apt,Condo,Real Bed,moderate,NYC,False,t,t,f
+2.70805,15.0,2,1.0,1,2,0,,41.764074,-87.445905,Private room,Villa,Real Bed,flexible,Chicago,True,f,t,t
+5.247655,190.12,2,1.0,1,1,2,88.0,40.689117,-73.861436,Entire home/apt,House,Futon,flexible,NYC,False,f,t,t
+4.669552,106.65,4,1.0,2,2,10,88.0,42.304842,-70.977458,Private room,Townhouse,Real Bed,flexible,Boston,True,t,t,t
+4.339902,76.7,3,1.0,2,2,82,84.0,41.842672,-87.484911,Private room,Apartment,Real Bed,moderate,Chicago,True,f,t,t
+4.752296,115.85,5,1.0,3,3,37,84.0,42.312092,-71.100126,Private room,Apartment,Real Bed,moderate,Boston,False,f,t,t
+5.922918,373.5,4,1.0,6,6,4,94.0,40.768894,-74.19733,Entire home/apt,House,Pull-out Sofa,flexible,NYC,True,t,t,t
+5.131909,169.34,5,1.0,2,3,21,91.0,42.47113,-71.077046,Private room,Studio,Real Bed,moderate,Boston,True,t,t,f
+5.126876,168.49,2,1.0,1,1,30,98.0,34.261806,-118.13484,Entire home/apt,House,Real Bed,moderate,LA,True,t,t,f
+5.525931,251.12,2,3.0,1,1,20,88.0,39.002918,-77.109199,Entire home/apt,Cabin,Real Bed,flexible,DC,True,f,t,t
+5.179196,177.54,2,1.0,3,4,5,93.0,40.627847,-74.116189,Entire home/apt,Apartment,Pull-out Sofa,strict,NYC,True,f,t,f
+5.445702,231.76,2,1.5,1,1,27,99.0,37.840296,-122.259083,Entire home/apt,Condo,Real Bed,flexible,SF,False,t,t,f
+5.254522,191.43,1,1.5,1,1,11,100.0,42.435178,-71.044216,Entire home/apt,Condo,Real Bed,flexible,Boston,True,t,t,f
+4.698934,109.83,1,1.0,3,4,10,81.0,41.849075,-87.671184,Entire home/apt,Studio,Real Bed,moderate,Chicago,False,f,t,t
+5.181896,178.02,1,1.5,3,3,15,91.0,34.078241,-118.489142,Entire home/apt,House,Real Bed,flexible,LA,True,t,t,t
+4.996401,147.88,4,1.0,1,1,5,89.0,40.511383,-73.885323,Private room,Apartment,Futon,strict,NYC,True,t,t,t
+2.70805,15.0,4,1.0,2,2,0,,42.363683,-70.987963,Entire home/apt,Apartment,Real Bed,strict,Boston,True,f,f,t
+5.93267,377.16,4,2.0,3,3,6,95.0,37.986794,-122.519963,Entire home/apt,Apartment,Pull-out Sofa,moderate,SF,True,t,t,t
+6.009329,407.21,4,1.0,5,5,85,91.0,40.535453,-73.738885,Entire home/apt,House,Pull-out Sofa,flexible,NYC,True,f,t,t
+2.70805,15.0,5,1.0,2,2,0,,41.758298,-87.561405,Entire home/apt,House,Real Bed,moderate,Chicago,True,f,t,t
+4.764735,117.3,4,3.0,3,3,8,94.0,33.986726,-118.543554,Shared room,Studio,Real Bed,flexible,LA,False,f,t,f
+4.695468,109.45,1,1.0,1,1,19,94.0,41.683207,-87.506816,Entire home/apt,House,Real Bed,super_strict_30,Chicago,True,f,t,f
+5.733568,309.07,3,1.5,1,2,14,100.0,37.642753,-122.189445,Entire home/apt,Apartment,Pull-out Sofa,flexible,SF,True,f,t,t
+5.534219,253.21,4,1.0,5,6,51,73.0,34.298508,-118.35455,Entire home/apt,Loft,Real Bed,flexible,LA,True,f,t,t
+5.690022,295.9,4,2.0,1,2,49,93.0,40.758561,-73.927319,Entire home/apt,Villa,Real Bed,strict,NYC,True,t,f,f
+4.886054,132.43,3,1.0,1,1,19,86.0,40.817487,-73.807399,Private room,House,Real Bed,moderate,NYC,True,f,t,t
+5.437557,229.88,2,1.0,2,2,8,90.0,40.533171,-73.879112,Entire home/apt,Townhouse,Pull-out Sofa,strict,NYC,True,t,t,f
+4.531847,92.93,2,1.5,2,3,24,93.0,34.137341,-118.033256,Private room,Apartment,Real Bed,moderate,LA,False,t,t,t
+3.842673,46.65,2,1.0,1,1,10,81.0,41.999248,-87.637981,Private room,Villa,Real Bed,moderate,Chicago,True,f,t,t
+4.721263,112.31,2,1.0,2,2,1,93.0,33.893108,-118.527465,Private room,Loft,Real Bed,strict,LA,True,f,t,t
+4.961655,142.83,3,1.0,2,2,12,97.0,40.785213,-74.063249,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,f
+5.628915,278.36,3,1.5,3,3,31,88.0,40.856845,-74.184608,Entire home/apt,Apartment,Real Bed,strict,NYC,True,f,t,t
+4.281515,72.35,2,1.0,2,2,51,95.0,42.032715,-87.751749,Private room,Guest suite,Real Bed,moderate,Chicago,True,f,t,f
+5.593447,268.66,4,2.0,2,2,5,92.0,40.840119,-73.982964,Entire home/apt,House,Real Bed,moderate,NYC,False,t,t,t
+5.519659,249.55,2,2.0,5,5,8,90.0,42.43303,-71.012246,Entire home/apt,Condo,Pull-out Sofa,moderate,Boston,False,f,t,t
+5.298167,199.97,3,1.0,1,1,5,97.0,34.148991,-118.09187,Entire home/apt,Studio,Real Bed,moderate,LA,True,f,t,t
+4.954347,141.79,3,1.0,3,3,23,93.0,33.824996,-118.332718,Private room,Apartment,Real Bed,moderate,LA,True,f,t,f
+5.097608,163.63,6,1.0,3,3,1,93.0,33.929419,-118.045809,Private room,Apartment,Real Bed,moderate,LA,False,f,t,t
+5.047931,155.7,1,1.0,3,3,5,89.0,33.708389,-118.159736,Entire home/apt,House,Real Bed,moderate,LA,True,f,t,f
+5.549193,257.03,6,1.5,1,1,6,90.0,42.48653,-71.142096,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,f,t,f
+4.617889,101.28,2,1.0,1,1,16,87.0,42.366506,-71.113836,Private room,Bungalow,Real Bed,strict,Boston,False,t,t,t
+3.284664,26.7,2,1.0,1,1,11,87.0,42.253112,-71.0098,Private room,Bungalow,Real Bed,moderate,Boston,True,f,t,f
+4.900448,134.35,2,1.0,3,3,19,90.0,37.770578,-122.296903,Private room,Loft,Real Bed,moderate,SF,False,t,t,t
+3.931237,50.97,4,1.0,2,2,19,90.0,34.05841,-118.369277,Private room,Apartment,Real Bed,flexible,LA,True,t,t,t
+5.300665,200.47,2,2.5,3,3,5,99.0,38.835574,-76.872266,Entire home/apt,Apartment,Real Bed,flexible,DC,False,f,t,t
+5.482928,240.55,4,1.0,1,2,7,100.0,40.738371,-73.877817,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,f,t
+5.335902,207.66,5,1.0,2,2,15,92.0,41.714471,-87.839189,Entire home/apt,Villa,Real Bed,moderate,Chicago,True,f,t,f
+5.826619,339.21,5,1.0,3,4,48,78.0,37.850343,-122.203204,Entire home/apt,House,Couch,moderate,SF,True,t,t,t
+5.569832,262.39,3,1.0,3,3,10,93.0,37.834088,-122.459558,Entire home/apt,Condo,Real Bed,strict,SF,False,t,t,t
+5.365929,213.99,5,1.0,2,2,37,100.0,42.245866,-71.180149,Entire home/apt,House,Real Bed,flexible,Boston,True,f,t,t
+5.624631,277.17,4,1.0,3,3,4,100.0,40.609963,-73.841601,Entire home/apt,Apartment,Real Bed,moderate,NYC,False,t,t,t
+5.651787,284.8,4,2.0,2,3,4,100.0,38.824417,-77.071996,Entire home/apt,Apartment,Real Bed,flexible,DC,True,t,t,t
+5.360165,212.76,8,1.5,1,1,26,99.0,37.726022,-122.338164,Private room,Apartment,Futon,flexible,SF,True,f,t,t
+5.506591,246.31,3,1.0,2,3,61,90.0,34.041601,-118.215171,Entire home/apt,Studio,Real Bed,flexible,LA,True,f,t,t
+4.463607,86.8,1,2.0,1,1,44,96.0,38.979463,-77.097129,Private room,Apartment,Real Bed,flexible,DC,True,f,t,t
+5.298017,199.94,1,1.0,5,5,24,91.0,34.27181,-118.208052,Entire home/apt,Apartment,Real Bed,moderate,LA,False,t,t,f
+4.776094,118.64,2,1.0,3,3,20,93.0,40.810126,-73.912786,Private room,House,Real Bed,moderate,NYC,True,f,t,f
+4.5486,94.5,1,1.0,2,2,9,96.0,38.766817,-76.912942,Private room,Condo,Real Bed,strict,DC,True,f,t,f
+4.576153,97.14,2,1.0,1,1,1,94.0,41.804111,-87.763079,Entire home/apt,Studio,Pull-out Sofa,flexible,Chicago,True,t,t,t
+4.904978,134.96,4,1.0,3,3,8,80.0,40.780075,-73.786865,Private room,Cabin,Real Bed,moderate,NYC,True,f,t,t
+2.70805,15.0,2,2.0,2,2,0,,41.816811,-87.615244,Shared room,Apartment,Pull-out Sofa,strict,Chicago,True,f,t,t
+4.565181,96.08,1,1.0,3,4,18,93.0,33.797338,-118.483049,Private room,Apartment,Real Bed,strict,LA,False,t,t,t
+4.828474,125.02,1,2.0,3,4,39,96.0,42.292952,-70.917085,Private room,Guest suite,Real Bed,strict,Boston,True,f,t,t
+5.268837,194.19,2,1.0,2,2,26,86.0,39.076161,-76.978195,Entire home/apt,Apartment,Pull-out Sofa,strict,DC,True,f,t,f
+5.392491,219.75,3,1.5,3,3,21,92.0,38.751292,-77.093928,Entire home/apt,Condo,Futon,strict,DC,True,f,t,t
+4.683797,108.18,4,1.0,4,4,39,98.0,33.849246,-118.397441,Private room,Apartment,Real Bed,strict,LA,True,f,t,t
+5.097608,163.63,2,1.0,4,4,15,100.0,34.017462,-118.086658,Entire home/apt,House,Real Bed,strict,LA,True,t,t,t
+5.104308,164.73,4,1.0,2,3,8,90.0,40.880981,-74.187562,Private room,Apartment,Real Bed,flexible,NYC,True,f,t,f
+6.000152,403.49,4,2.5,3,3,3,90.0,37.720012,-122.459173,Entire home/apt,Apartment,Real Bed,moderate,SF,True,t,t,t
+5.186492,178.84,4,2.5,1,1,17,94.0,41.965353,-87.878833,Entire home/apt,Apartment,Couch,flexible,Chicago,True,f,t,t
+4.884996,132.29,3,1.0,1,1,2,90.0,40.703551,-73.967565,Private room,Apartment,Real Bed,flexible,NYC,False,t,t,t
+5.14102,170.89,2,2.5,1,1,39,100.0,33.784171,-118.079405,Entire home/apt,Guest suite,Real Bed,moderate,LA,True,t,t,t
+5.344819,209.52,2,1.0,1,2,4,95.0,34.217604,-118.425067,Entire home/apt,Apartment,Pull-out Sofa,moderate,LA,True,f,t,t
+5.738506,310.6,4,1.0,3,3,59,95.0,40.596741,-73.800889,Entire home/apt,Townhouse,Real Bed,moderate,NYC,True,f,t,f
+4.414252,82.62,2,1.0,4,4,4,91.0,34.091516,-118.271544,Private room,House,Real Bed,flexible,LA,False,f,t,t
+4.595726,99.06,2,1.0,4,4,1,97.0,41.649385,-87.692042,Private room,Apartment,Real Bed,flexible,Chicago,True,t,t,t
+4.796699,121.11,6,1.0,3,3,85,91.0,37.785761,-122.191251,Private room,House,Real Bed,moderate,SF,True,f,t,t
+4.101982,60.46,2,2.0,2,3,21,100.0,42.207491,-71.080148,Private room,Loft,Real Bed,moderate,Boston,True,t,t,t
+4.756001,116.28,2,1.0,2,2,143,88.0,42.329923,-70.98911,Private room,Apartment,Real Bed,strict,Boston,True,f,t,t
+5.288368,198.02,3,1.0,2,2,7,85.0,41.807852,-87.506522,Entire home/apt,Villa,Real Bed,moderate,Chicago,True,f,t,f
+2.70805,15.0,5,1.0,2,3,0,,40.739295,-73.77259,Entire home/apt,Apartment,Airbed,moderate,NYC,False,t,t,t
+4.827994,124.96,4,1.0,3,3,17,90.0,37.940575,-122.146873,Private room,Condo,Real Bed,flexible,SF,True,f,t,f
+5.45673,234.33,4,1.0,2,2,28,95.0,34.064153,-118.304631,Entire home/apt,Condo,Pull-out Sofa,flexible,LA,False,f,t,t
+4.594615,98.95,2,1.0,4,4,2,98.0,42.245476,-71.005852,Private room,Apartment,Pull-out Sofa,moderate,Boston,True,f,t,t
+5.08772,162.02,5,1.0,4,4,7,94.0,42.354494,-71.16078,Private room,Villa,Real Bed,moderate,Boston,True,f,t,t
+5.000585,148.5,4,1.0,3,3,77,91.0,40.867121,-74.130179,Private room,House,Pull-out Sofa,super_strict_30,NYC,True,f,t,t
+5.35517,211.7,1,1.0,3,4,10,100.0,33.98902,-118.41954,Entire home/apt,Apartment,Real Bed,flexible,LA,False,f,t,t
+4.698752,109.81,2,1.0,2,3,48,95.0,42.499625,-71.088442,Private room,House,Real Bed,moderate,Boston,True,f,t,t
+4.720818,112.26,4,2.0,2,2,51,98.0,37.813641,-122.490865,Private room,Cabin,Real Bed,strict,SF,True,t,t,t
+5.126461,168.42,2,1.5,1,1,57,87.0,40.685707,-73.736413,Entire home/apt,House,Real Bed,super_strict_30,NYC,True,t,t,f
+5.415434,224.85,2,1.5,1,2,2,87.0,42.261844,-71.079174,Entire home/apt,Apartment,Real Bed,flexible,Boston,False,t,t,f
+4.237145,69.21,4,1.0,3,3,5,91.0,40.679741,-73.84571,Private room,Apartment,Real Bed,flexible,NYC,False,t,t,f
+4.849762,127.71,2,1.0,3,3,42,87.0,38.85972,-76.996842,Private room,Condo,Real Bed,moderate,DC,True,t,t,t
+2.70805,15.0,2,1.0,2,2,0,,41.655178,-87.780256,Private room,Townhouse,Real Bed,strict,Chicago,True,t,t,t
+4.562263,95.8,4,1.0,5,5,13,90.0,34.223218,-118.542472,Private room,Condo,Real Bed,moderate,LA,False,t,f,t
+6.173703,479.96,8,1.5,1,1,4,92.0,37.664669,-122.479732,Entire home/apt,Apartment,Real Bed,super_strict_30,SF,True,t,f,f
+4.879159,131.52,2,1.0,3,4,32,96.0,40.867812,-73.9334,Private room,Apartment,Futon,strict,NYC,True,t,t,f
+5.315568,203.48,5,2.0,3,4,46,87.0,41.978829,-87.618265,Entire home/apt,Apartment,Real Bed,moderate,Chicago,True,f,t,f
+5.493966,243.22,4,1.0,3,3,8,86.0,37.84977,-122.187196,Private room,Loft,Futon,flexible,SF,True,f,f,t
+5.024933,152.16,4,1.0,1,1,2,86.0,41.849606,-87.731518,Entire home/apt,Apartment,Real Bed,flexible,Chicago,True,t,t,t
+4.98203,145.77,4,1.5,3,3,4,91.0,42.475881,-70.92552,Private room,Apartment,Real Bed,super_strict_30,Boston,True,t,t,t
+5.125867,168.32,1,1.0,1,1,10,94.0,40.574242,-73.803889,Entire home/apt,Bungalow,Real Bed,strict,NYC,True,f,t,t
+5.41832,225.5,5,1.0,3,3,39,91.0,34.207809,-118.225076,Entire home/apt,Apartment,Real Bed,strict,LA,False,t,t,f
+4.164958,64.39,3,1.0,3,3,3,96.0,42.458181,-71.065737,Shared room,Studio,Real Bed,flexible,Boston,True,t,t,t
+2.70805,15.0,2,1.0,2,2,0,,37.991053,-122.597678,Entire home/apt,Apartment,Real Bed,flexible,SF,False,t,t,f
+5.25002,190.57,2,1.5,1,1,85,91.0,42.465777,-70.945717,Entire home/apt,Townhouse,Real Bed,strict,Boston,False,t,t,t
+3.853546,47.16,1,2.0,2,3,13,92.0,40.635472,-73.821494,Private room,Apartment,Pull-out Sofa,flexible,NYC,True,t,t,t
+4.284138,72.54,3,1.5,1,1,11,89.0,33.897889,-118.244744,Private room,House,Real Bed,strict,LA,False,f,t,t
+4.091507,59.83,2,1.5,4,5,8,78.0,41.674548,-87.42109,Private room,House,Pull-out Sofa,moderate,Chicago,True,t,f,f
+4.556295,95.23,4,1.0,3,3,17,86.0,33.782236,-118.10565,Private room,Apartment,Real Bed,flexible,LA,True,f,t,t
+5.553928,258.25,4,3.0,2,2,12,92.0,38.989105,-77.092995,Entire home/apt,Apartment,Pull-out Sofa,strict,DC,True,f,t,t
+4.510969,91.01,4,1.0,2,2,99,89.0,41.906695,-87.763734,Shared room,Apartment,Real Bed,strict,Chicago,False,t,t,t
+5.489516,242.14,3,2.0,1,1,23,90.0,37.77182,-122.35628,Entire home/apt,Apartment,Real Bed,strict,SF,False,f,t,t
+5.111325,165.89,1,1.0,2,2,43,94.0,40.644917,-74.017474,Private room,Condo,Real Bed,flexible,NYC,True,t,t,t
+5.570708,262.62,1,1.0,3,4,26,93.0,42.330135,-71.022019,Entire home/apt,Cabin,Real Bed,strict,Boston,True,t,t,f
+5.066322,158.59,4,1.0,1,1,1,81.0,40.593038,-73.891557,Private room,Condo,Real Bed,moderate,NYC,True,f,t,f
+3.84203,46.62,3,1.0,2,2,14,88.0,34.030177,-118.510112,Shared room,Cabin,Real Bed,moderate,LA,True,t,t,f
+4.708899,110.93,6,3.0,3,3,2,99.0,39.010456,-76.985971,Shared room,Apartment,Real Bed,moderate,DC,True,f,t,t
+5.427853,227.66,4,1.5,4,4,56,86.0,41.795375,-87.529595,Entire home/apt,Apartment,Real Bed,moderate,Chicago,True,t,t,t
+4.732507,113.58,2,1.5,2,2,11,92.0,38.802567,-76.843508,Private room,House,Real Bed,super_strict_30,DC,True,t,t,t
+5.494131,243.26,3,2.5,2,2,20,85.0,33.888328,-118.221053,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,True,f,t,f
+5.35361,211.37,2,1.0,2,2,4,93.0,40.852959,-73.721718,Entire home/apt,Apartment,Real Bed,super_strict_30,NYC,False,f,t,f
+5.347298,210.04,2,1.0,2,2,1,95.0,37.94197,-122.47366,Entire home/apt,Apartment,Real Bed,strict,SF,True,f,t,f
+5.421375,226.19,2,1.5,3,3,7,82.0,37.71392,-122.144123,Entire home/apt,Apartment,Pull-out Sofa,strict,SF,True,t,t,t
+5.075299,160.02,2,1.0,3,3,25,93.0,42.035636,-87.48626,Entire home/apt,Condo,Real Bed,strict,Chicago,False,f,t,t
+5.749074,313.9,4,1.0,2,3,85,97.0,37.685585,-122.113979,Entire home/apt,Apartment,Real Bed,flexible,SF,True,t,t,f
+5.589306,267.55,2,1.0,3,3,22,93.0,40.600839,-73.722555,Entire home/apt,Apartment,Real Bed,strict,NYC,False,f,t,t
+5.482679,240.49,4,1.0,2,2,46,89.0,33.789804,-118.541568,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,t
+5.452668,233.38,8,1.0,2,2,25,86.0,34.108909,-118.455387,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,f
+5.611923,273.67,4,1.0,1,1,34,89.0,40.634366,-74.132881,Entire home/apt,Apartment,Real Bed,strict,NYC,True,t,t,t
+4.624286,101.93,4,1.0,2,2,4,90.0,40.895826,-74.121156,Shared room,Condo,Real Bed,strict,NYC,True,f,t,f
+2.70805,15.0,2,2.0,2,2,0,,34.069659,-118.567688,Private room,House,Real Bed,super_strict_30,LA,True,t,t,t
+5.644245,282.66,4,1.0,1,1,2,85.0,40.742228,-73.860064,Entire home/apt,Apartment,Real Bed,strict,NYC,True,f,t,t
+5.412672,224.23,3,1.5,4,4,28,94.0,33.735716,-118.292944,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,f
+5.473572,238.31,2,2.0,1,2,5,92.0,40.806025,-73.726041,Entire home/apt,Apartment,Real Bed,moderate,NYC,False,f,t,t
+5.283458,197.05,4,1.0,2,2,13,94.0,38.941458,-76.841792,Entire home/apt,House,Real Bed,flexible,DC,True,f,t,f
+5.228485,186.51,4,1.0,4,4,14,86.0,42.208657,-71.180741,Private room,Apartment,Real Bed,flexible,Boston,True,f,t,f
+4.629375,102.45,2,1.0,4,4,4,94.0,40.61404,-73.972474,Private room,Villa,Real Bed,strict,NYC,True,f,t,t
+5.231216,187.02,3,1.0,3,4,2,87.0,41.891435,-87.874169,Entire home/apt,House,Pull-out Sofa,moderate,Chicago,False,t,t,t
+5.199767,181.23,4,1.0,2,3,19,87.0,37.893626,-122.342526,Private room,Loft,Real Bed,strict,SF,True,t,t,t
+5.369568,214.77,3,1.5,1,1,13,97.0,38.831309,-77.136704,Entire home/apt,Villa,Futon,flexible,DC,True,f,t,f
+5.026574,152.41,4,1.0,1,1,36,86.0,34.197123,-118.301205,Entire home/apt,Apartment,Real Bed,strict,LA,False,f,t,f
+5.251226,190.8,2,1.0,4,4,30,88.0,37.670246,-122.414052,Private room,Apartment,Real Bed,moderate,SF,True,f,t,t
+4.964452,143.23,4,1.5,2,2,27,95.0,37.844522,-122.510734,Private room,Apartment,Real Bed,flexible,SF,True,f,t,t
+5.356162,211.91,4,1.0,2,2,9,78.0,33.875635,-118.57795,Entire home/apt,Townhouse,Real Bed,moderate,LA,False,t,f,t
+4.979901,145.46,1,2.0,2,3,7,91.0,41.896243,-87.751106,Entire home/apt,Condo,Real Bed,moderate,Chicago,True,t,t,t
+5.480097,239.87,2,1.5,3,3,10,91.0,42.325257,-71.109823,Entire home/apt,House,Real Bed,moderate,Boston,True,t,t,t
+4.655578,105.17,2,1.0,1,1,5,93.0,33.946466,-118.086206,Entire home/apt,Apartment,Pull-out Sofa,moderate,LA,False,f,t,t
+5.294058,199.15,2,1.0,3,3,27,94.0,40.852795,-74.014413,Private room,Condo,Real Bed,flexible,NYC,True,t,t,t
+5.219058,184.76,3,1.0,2,2,16,86.0,38.766947,-76.808617,Entire home/apt,Apartment,Real Bed,strict,DC,True,f,t,t
+4.505902,90.55,2,2.0,1,2,48,90.0,34.031648,-118.022647,Private room,Studio,Real Bed,strict,LA,True,f,t,f
+5.812398,334.42,2,1.0,3,3,37,99.0,37.813488,-122.43076,Entire home/apt,Apartment,Real Bed,strict,SF,True,f,t,t
+5.090493,162.47,4,1.5,1,1,1,98.0,33.966629,-118.105404,Entire home/apt,Apartment,Real Bed,moderate,LA,True,f,t,f
+5.087596,162.0,8,1.0,1,2,28,97.0,34.074601,-118.533665,Private room,Bungalow,Futon,moderate,LA,True,t,t,t
+4.788574,120.13,1,1.5,1,1,52,92.0,42.072438,-87.896936,Entire home/apt,Cabin,Real Bed,flexible,Chicago,True,t,t,t
+5.638604,281.07,6,1.0,3,4,25,92.0,42.494162,-70.910312,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,f,t,t
+2.70805,15.0,4,3.0,3,3,0,,33.724012,-118.559404,Private room,Loft,Real Bed,super_strict_30,LA,False,f,t,t
+5.268786,194.18,2,1.5,1,1,22,100.0,40.570828,-73.919739,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,f,t,t
+5.015026,150.66,3,1.0,1,1,7,99.0,42.382994,-71.031858,Entire home/apt,Townhouse,Real Bed,super_strict_30,Boston,True,f,t,f
+2.70805,15.0,3,2.5,5,5,0,,42.302881,-70.909342,Private room,House,Pull-out Sofa,flexible,Boston,True,f,t,t
+5.909169,368.4,8,1.0,1,1,32,100.0,40.785031,-73.882524,Entire home/apt,Apartment,Real Bed,strict,NYC,True,t,t,t
+5.401731,221.79,2,1.0,3,4,17,91.0,42.231482,-71.193296,Entire home/apt,Apartment,Real Bed,flexible,Boston,True,f,t,t
+5.28968,198.28,2,2.0,4,4,2,85.0,41.96337,-87.427834,Entire home/apt,Condo,Real Bed,strict,Chicago,False,t,t,t
+4.866072,129.81,2,1.0,1,1,17,97.0,41.649528,-87.740601,Entire home/apt,Apartment,Real Bed,moderate,Chicago,False,t,t,t
+5.628592,278.27,2,1.5,2,2,1,89.0,40.544641,-74.106427,Entire home/apt,Condo,Real Bed,moderate,NYC,True,t,t,t
+5.015623,150.75,2,1.0,1,1,4,92.0,40.50192,-73.945443,Private room,Guest suite,Couch,strict,NYC,False,f,t,t
+4.693364,109.22,4,1.0,2,3,40,93.0,33.916227,-118.401169,Private room,Condo,Pull-out Sofa,flexible,LA,True,f,t,t
+5.572876,263.19,1,1.5,3,4,5,98.0,40.540132,-74.125859,Entire home/apt,Condo,Real Bed,moderate,NYC,True,f,f,f
+5.604036,271.52,4,1.0,2,2,4,98.0,38.998708,-77.069812,Entire home/apt,Apartment,Real Bed,moderate,DC,True,t,t,t
+3.082369,21.81,4,1.0,1,1,25,98.0,38.868536,-76.858394,Shared room,Apartment,Real Bed,super_strict_30,DC,True,f,t,t
+4.013135,55.32,2,1.0,2,2,9,96.0,33.755707,-118.33824,Shared room,Studio,Real Bed,moderate,LA,True,t,f,f
+5.062215,157.94,5,1.0,2,2,14,83.0,42.043794,-87.616805,Entire home/apt,Condo,Real Bed,super_strict_30,Chicago,True,f,t,t
+5.359507,212.62,2,1.0,3,3,8,100.0,33.93565,-118.450411,Entire home/apt,Condo,Real Bed,moderate,LA,False,t,t,f
+5.058155,157.3,3,2.0,2,2,45,85.0,33.878406,-118.519812,Entire home/apt,House,Real Bed,moderate,LA,True,f,t,f
+5.792495,327.83,4,1.0,3,3,22,84.0,37.905622,-122.558096,Entire home/apt,Condo,Real Bed,strict,SF,True,f,t,f
+5.115896,166.65,4,1.0,1,1,17,88.0,33.98864,-118.667904,Entire home/apt,Apartment,Real Bed,flexible,LA,True,f,t,t
+5.309554,202.26,2,1.0,2,2,70,100.0,34.227395,-118.171722,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,t
+5.015822,150.78,2,2.5,1,1,33,97.0,42.456625,-71.069318,Private room,Apartment,Real Bed,moderate,Boston,True,t,t,t
+2.70805,15.0,3,2.0,2,2,0,,42.23366,-70.90283,Private room,Apartment,Futon,moderate,Boston,False,t,t,f
+5.086423,161.81,4,1.0,3,3,14,88.0,37.945916,-122.252664,Shared room,Apartment,Real Bed,strict,SF,True,f,t,t
+5.380773,217.19,3,1.0,2,3,10,100.0,40.590395,-73.871793,Entire home/apt,Apartment,Pull-out Sofa,super_strict_30,NYC,True,t,t,f
+5.57837,264.64,4,1.0,2,3,13,91.0,40.607933,-73.994327,Entire home/apt,Apartment,Futon,moderate,NYC,False,f,t,t
+5.564559,261.01,4,1.0,2,3,6,99.0,40.833702,-74.047909,Entire home/apt,Studio,Real Bed,strict,NYC,True,t,t,t
+4.828554,125.03,4,1.0,4,4,4,90.0,34.00886,-118.655287,Private room,Apartment,Futon,flexible,LA,False,t,t,t
+5.697228,298.04,2,1.0,4,5,14,92.0,37.661498,-122.533387,Entire home/apt,House,Real Bed,moderate,SF,True,f,t,t
+4.797855,121.25,2,1.0,1,1,11,83.0,40.520874,-73.730388,Private room,Apartment,Real Bed,super_strict_30,NYC,True,f,t,t
+5.480347,239.93,2,1.0,2,2,14,89.0,40.669873,-74.191107,Entire home/apt,House,Real Bed,flexible,NYC,True,f,t,t
+5.469831,237.42,2,1.0,2,3,23,98.0,40.800731,-73.975155,Entire home/apt,Apartment,Pull-out Sofa,strict,NYC,False,t,t,t
+4.888543,132.76,3,1.0,4,4,19,92.0,38.857653,-77.11928,Private room,House,Real Bed,strict,DC,True,t,t,t
+5.101511,164.27,2,2.0,3,4,78,80.0,40.855486,-73.973432,Private room,Apartment,Real Bed,strict,NYC,True,t,t,t
+4.684351,108.24,4,1.0,1,2,31,95.0,37.634266,-122.126566,Private room,Studio,Pull-out Sofa,moderate,SF,True,f,t,t
+5.759974,317.34,4,1.0,2,2,3,90.0,37.675734,-122.49424,Entire home/apt,Apartment,Couch,strict,SF,True,f,t,t
+4.186164,65.77,4,1.0,1,2,5,84.0,34.273917,-118.147648,Private room,Apartment,Real Bed,moderate,LA,False,f,t,t
+5.138911,170.53,4,1.0,1,1,24,87.0,41.639391,-87.761549,Entire home/apt,Townhouse,Pull-out Sofa,flexible,Chicago,True,t,t,f
+5.385458,218.21,4,1.0,1,1,14,93.0,40.803506,-74.104641,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,t,f,f
+4.564661,96.03,5,2.0,2,2,6,96.0,33.750856,-118.180874,Private room,Loft,Pull-out Sofa,strict,LA,False,t,t,t
+5.730879,308.24,4,2.5,7,7,7,93.0,38.703697,-77.074998,Entire home/apt,Apartment,Real Bed,strict,DC,False,t,t,t
+5.32262,204.92,4,1.0,1,1,14,78.0,40.554752,-73.856199,Entire home/apt,Apartment,Real Bed,moderate,NYC,False,t,t,t
+5.263001,193.06,2,1.0,2,2,13,85.0,42.241931,-71.024975,Entire home/apt,Condo,Couch,strict,Boston,True,t,t,f
+5.28665,197.68,4,1.0,2,2,35,96.0,42.33802,-70.965268,Entire home/apt,Apartment,Pull-out Sofa,flexible,Boston,True,f,t,t
+4.808682,122.57,3,2.5,2,2,55,96.0,37.90576,-122.18007,Private room,Studio,Real Bed,flexible,SF,True,f,t,t
+4.785406,119.75,2,1.0,2,3,56,95.0,37.655679,-122.309891,Private room,House,Real Bed,moderate,SF,True,f,t,t
+2.70805,15.0,5,1.0,2,2,0,,42.449471,-71.022565,Entire home/apt,Loft,Pull-out Sofa,strict,Boston,True,f,t,t
+4.315486,74.85,4,1.0,3,3,12,90.0,40.712959,-73.750653,Shared room,Condo,Real Bed,strict,NYC,True,t,t,t
+5.31153,202.66,1,1.0,6,6,20,88.0,38.832869,-77.196318,Entire home/apt,Apartment,Real Bed,super_strict_30,DC,False,f,t,t
+5.088522,162.15,1,1.0,2,2,12,91.0,42.057846,-87.651031,Entire home/apt,Apartment,Couch,moderate,Chicago,True,t,t,f
+5.613967,274.23,5,1.0,2,3,6,88.0,40.583497,-73.727867,Entire home/apt,Condo,Real Bed,strict,NYC,False,f,t,f
+5.743836,312.26,4,1.0,1,1,18,90.0,37.907346,-122.455585,Entire home/apt,Apartment,Real Bed,moderate,SF,True,f,t,t
+5.589082,267.49,2,1.0,2,3,19,77.0,40.5894,-73.776395,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,t
+3.901164,49.46,2,2.0,4,4,3,92.0,34.079441,-118.284932,Shared room,Loft,Couch,moderate,LA,True,t,t,f
+5.214392,183.9,2,1.0,3,3,26,87.0,34.131503,-118.306109,Entire home/apt,Loft,Couch,flexible,LA,False,t,t,f
+5.038575,154.25,3,2.0,1,1,7,96.0,41.761734,-87.724236,Entire home/apt,Apartment,Pull-out Sofa,moderate,Chicago,False,f,t,t
+5.077608,160.39,4,1.5,1,1,26,91.0,37.723538,-122.44236,Private room,Apartment,Real Bed,strict,SF,True,t,t,t
+5.484216,240.86,3,1.0,3,3,31,90.0,34.199494,-118.083592,Entire home/apt,Condo,Real Bed,moderate,LA,True,f,t,t
+5.696825,297.92,3,2.0,2,2,37,94.0,40.872907,-73.761852,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,t
+5.52931,251.97,2,1.0,2,3,14,82.0,40.825337,-74.150624,Entire home/apt,Apartment,Real Bed,strict,NYC,True,f,t,t
+5.452925,233.44,4,2.5,3,3,10,98.0,33.77146,-118.64369,Entire home/apt,Studio,Real Bed,strict,LA,True,f,t,f
+4.678792,107.64,3,1.0,3,3,58,88.0,34.285536,-118.042643,Private room,Cabin,Real Bed,moderate,LA,True,f,t,f
+4.74354,114.84,4,1.0,1,1,14,81.0,40.83086,-73.791436,Private room,Studio,Pull-out Sofa,moderate,NYC,True,f,t,f
+5.327051,205.83,2,2.5,3,3,4,95.0,42.307444,-71.14212,Entire home/apt,Apartment,Real Bed,strict,Boston,False,t,t,t
+4.885072,132.3,4,1.0,3,4,5,89.0,33.739082,-118.153841,Private room,House,Futon,strict,LA,False,t,t,t
+5.598014,269.89,2,1.0,1,1,5,95.0,40.65806,-73.873105,Entire home/apt,Condo,Real Bed,strict,NYC,True,t,t,t
+4.755055,116.17,2,1.5,1,1,7,90.0,41.676203,-87.830958,Entire home/apt,Apartment,Pull-out Sofa,flexible,Chicago,False,f,t,t
+4.804513,122.06,2,1.0,1,2,4,86.0,42.309164,-71.161271,Entire home/apt,Cabin,Real Bed,moderate,Boston,False,t,t,t
+5.909875,368.66,4,1.0,6,7,26,90.0,37.904201,-122.338411,Entire home/apt,House,Airbed,moderate,SF,False,f,t,f
+5.690055,295.91,2,1.0,5,5,16,97.0,37.970685,-122.584192,Entire home/apt,Townhouse,Real Bed,moderate,SF,False,t,t,t
+5.041358,154.68,4,2.0,3,3,21,89.0,40.887697,-74.101356,Private room,House,Real Bed,flexible,NYC,True,f,t,f
+5.099683,163.97,1,3.0,2,3,27,96.0,38.876841,-76.937907,Entire home/apt,House,Real Bed,strict,DC,True,f,t,t
+5.609618,273.04,5,2.5,2,3,10,85.0,33.817018,-118.619974,Entire home/apt,Villa,Real Bed,moderate,LA,True,f,f,t
+4.400358,81.48,2,1.0,3,4,16,97.0,42.474445,-70.907986,Private room,Apartment,Real Bed,super_strict_30,Boston,False,t,t,t
+5.372775,215.46,2,2.0,1,1,1,88.0,40.78627,-74.004649,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,t
+5.375926,216.14,3,1.0,1,2,31,100.0,37.641374,-122.484424,Entire home/apt,Loft,Futon,flexible,SF,True,f,t,f
+5.676206,291.84,6,1.0,2,2,16,90.0,34.289468,-118.658015,Entire home/apt,Guest suite,Real Bed,strict,LA,True,t,t,t
+5.529627,252.05,2,1.0,2,2,23,92.0,40.6231,-74.136787,Entire home/apt,Apartment,Pull-out Sofa,moderate,NYC,True,f,t,t
+5.448847,232.49,1,1.0,2,3,32,95.0,37.764605,-122.508077,Entire home/apt,House,Real Bed,strict,SF,True,t,f,f
+4.980863,145.6,2,1.0,1,1,89,96.0,41.690385,-87.604507,Entire home/apt,Apartment,Airbed,moderate,Chicago,True,t,t,t
+5.179759,177.64,5,1.0,4,4,21,90.0,42.35419,-70.987389,Private room,House,Real Bed,strict,Boston,True,f,t,f
+4.560382,95.62,2,1.0,4,5,23,90.0,38.747936,-76.848291,Private room,House,Futon,moderate,DC,True,f,t,t
+5.175528,176.89,4,1.5,3,3,38,95.0,38.918512,-77.112625,Entire home/apt,Apartment,Real Bed,moderate,DC,False,t,t,t
+5.436077,229.54,2,1.0,4,4,10,96.0,38.899418,-76.849739,Entire home/apt,Villa,Real Bed,strict,DC,True,t,t,t
+5.608336,272.69,4,1.5,2,2,67,91.0,40.648574,-73.7853,Entire home/apt,Apartment,Real Bed,moderate,NYC,False,t,t,f
+5.284168,197.19,2,1.0,3,3,6,89.0,38.722412,-77.036537,Entire home/apt,Apartment,Real Bed,moderate,DC,False,f,t,t
+5.623512,276.86,2,1.0,2,2,16,88.0,37.97229,-122.133786,Entire home/apt,Apartment,Futon,strict,SF,True,f,t,t
+4.867919,130.05,2,1.0,4,4,6,86.0,33.819131,-118.331238,Entire home/apt,Apartment,Futon,strict,LA,True,f,t,f
+5.295814,199.5,3,1.0,2,3,1,100.0,42.029711,-87.465767,Entire home/apt,Condo,Real Bed,flexible,Chicago,True,f,f,t
+4.769667,117.88,4,1.5,5,5,9,74.0,41.914784,-87.563081,Private room,Apartment,Real Bed,moderate,Chicago,True,t,t,t
+5.747767,313.49,4,1.0,2,2,6,89.0,37.794314,-122.34938,Entire home/apt,House,Real Bed,super_strict_30,SF,True,f,t,f
+5.29446,199.23,2,1.0,1,1,21,83.0,34.182253,-118.383594,Entire home/apt,Apartment,Real Bed,moderate,LA,True,t,t,f
+4.702841,110.26,2,1.0,2,2,98,93.0,34.056313,-118.42042,Private room,House,Real Bed,strict,LA,True,f,t,t
+5.196395,180.62,4,1.0,3,3,11,96.0,41.662048,-87.690046,Entire home/apt,House,Pull-out Sofa,moderate,Chicago,True,f,t,t
+5.197447,180.81,5,2.0,2,2,12,84.0,37.630138,-122.126681,Private room,Loft,Real Bed,flexible,SF,True,f,t,f
+5.162211,174.55,3,1.0,1,1,27,95.0,34.185356,-118.383226,Entire home/apt,Loft,Real Bed,flexible,LA,True,t,t,t
+5.36719,214.26,2,2.0,1,1,55,92.0,40.714043,-73.944246,Entire home/apt,House,Real Bed,strict,NYC,False,f,t,f
+5.314781,203.32,3,2.5,2,2,4,91.0,33.774654,-118.458464,Entire home/apt,House,Real Bed,moderate,LA,False,t,t,t
+5.534772,253.35,2,1.0,5,5,32,88.0,33.958991,-118.467441,Entire home/apt,House,Real Bed,strict,LA,False,f,t,t
+5.490012,242.26,3,1.5,2,2,31,83.0,42.335818,-70.961997,Entire home/apt,Apartment,Real Bed,flexible,Boston,True,t,f,t
+4.631423,102.66,4,1.0,2,2,1,99.0,41.69279,-87.790336,Private room,House,Real Bed,moderate,Chicago,True,f,t,t
+5.242593,189.16,2,1.0,4,4,2,82.0,34.228714,-118.487057,Entire home/apt,Apartment,Real Bed,super_strict_30,LA,True,f,t,f
+4.50932,90.86,3,2.0,3,3,27,100.0,37.83304,-122.528345,Private room,Guest suite,Real Bed,strict,SF,True,t,t,t
+4.59885,99.37,2,1.5,2,2,6,87.0,33.760011,-118.215663,Private room,Loft,Real Bed,strict,LA,True,t,t,t
+4.647655,104.34,1,1.0,3,3,2,90.0,40.597976,-74.149928,Private room,Townhouse,Real Bed,strict,NYC,True,f,t,t
+5.327099,205.84,2,1.0,3,3,18,94.0,39.046476,-76.846878,Entire home/apt,Apartment,Real Bed,moderate,DC,True,f,t,t
+2.70805,15.0,1,2.0,1,1,0,,38.905409,-76.956192,Entire home/apt,Loft,Real Bed,strict,DC,False,t,t,t
+5.419428,225.75,2,3.0,1,2,7,97.0,40.784267,-73.709195,Entire home/apt,Condo,Real Bed,strict,NYC,True,f,t,t
+5.153176,172.98,4,1.5,2,3,6,83.0,41.766729,-87.679241,Entire home/apt,Condo,Airbed,strict,Chicago,False,t,t,f
+5.23175,187.12,1,1.0,1,1,66,86.0,33.873726,-118.333411,Entire home/apt,House,Real Bed,flexible,LA,True,t,t,t
+5.301113,200.56,1,1.0,3,3,6,99.0,40.865143,-74.098892,Entire home/apt,Apartment,Real Bed,moderate,NYC,False,t,t,t
+4.704201,110.41,3,1.0,3,3,16,99.0,33.758566,-118.531688,Private room,House,Real Bed,flexible,LA,False,f,t,t
+4.289637,72.94,1,1.0,1,1,54,86.0,33.974688,-118.436944,Private room,Townhouse,Airbed,super_strict_30,LA,False,f,t,t
+5.110963,165.83,2,1.0,2,3,16,96.0,34.08472,-118.053478,Entire home/apt,Apartment,Airbed,moderate,LA,True,f,t,t
+2.70805,15.0,4,1.5,2,2,0,,41.90416,-87.718926,Entire home/apt,Loft,Real Bed,strict,Chicago,True,f,t,t
+5.680173,293.0,5,1.5,4,4,39,100.0,34.118581,-118.216029,Entire home/apt,Condo,Real Bed,super_strict_30,LA,False,f,f,t
+5.245602,189.73,2,1.0,1,1,1,88.0,42.498017,-70.990382,Entire home/apt,Condo,Real Bed,super_strict_30,Boston,True,f,t,f
+5.7601,317.38,4,2.0,1,1,14,90.0,40.523057,-73.731369,Entire home/apt,Loft,Real Bed,strict,NYC,True,f,t,f
+4.672735,106.99,1,1.0,3,3,21,96.0,33.707282,-118.357949,Private room,Apartment,Real Bed,moderate,LA,False,t,t,t
+2.70805,15.0,2,1.0,2,2,0,,37.760658,-122.5066,Private room,Condo,Futon,moderate,SF,False,t,t,t
+4.458177,86.33,4,2.0,3,3,5,91.0,39.059132,-77.140161,Private room,House,Real Bed,strict,DC,True,f,t,t
+4.890124,132.97,2,1.0,4,5,7,85.0,41.973946,-87.621592,Entire home/apt,Loft,Futon,moderate,Chicago,True,f,t,f
+5.068778,158.98,2,1.0,2,2,20,97.0,42.493734,-71.021349,Entire home/apt,Condo,Real Bed,flexible,Boston,True,f,t,t
+4.869302,130.23,4,2.0,1,1,13,88.0,41.779456,-87.616898,Entire home/apt,Apartment,Pull-out Sofa,flexible,Chicago,True,f,t,t
+4.433314,84.21,4,1.5,1,1,38,97.0,40.751953,-73.829591,Shared room,House,Real Bed,moderate,NYC,True,f,t,t
+5.142424,171.13,3,1.5,1,1,20,98.0,42.007537,-87.473225,Entire home/apt,Loft,Real Bed,flexible,Chicago,False,t,t,t
+5.534614,253.31,3,2.0,2,2,25,95.0,40.765121,-73.777833,Entire home/apt,Condo,Real Bed,flexible,NYC,True,t,t,f
+5.382842,217.64,4,1.0,4,4,9,93.0,41.66522,-87.501217,Entire home/apt,House,Real Bed,moderate,Chicago,True,f,t,f
+5.15612,173.49,5,1.0,1,2,11,91.0,41.97214,-87.526953,Entire home/apt,House,Real Bed,strict,Chicago,True,f,t,t
+4.628007,102.31,3,1.0,2,2,52,83.0,39.019219,-77.114515,Private room,Apartment,Real Bed,strict,DC,False,f,t,f
+5.557639,259.21,2,1.0,4,4,62,84.0,37.820365,-122.544628,Entire home/apt,House,Real Bed,flexible,SF,True,f,t,f
+5.865107,352.52,4,1.0,4,4,74,100.0,37.705836,-122.494974,Entire home/apt,House,Real Bed,flexible,SF,False,f,t,t
+4.356452,77.98,4,1.0,1,2,12,99.0,42.002752,-87.534462,Private room,Condo,Real Bed,moderate,Chicago,True,f,t,f
+5.521181,249.93,2,3.0,2,2,39,90.0,33.957526,-118.071863,Entire home/apt,Condo,Pull-out Sofa,strict,LA,True,t,t,t
+5.234259,187.59,2,1.0,1,1,11,83.0,37.64385,-122.355053,Entire home/apt,Townhouse,Pull-out Sofa,strict,SF,False,t,t,t
+5.056692,157.07,4,1.5,1,1,8,97.0,37.728266,-122.189986,Private room,Villa,Real Bed,flexible,SF,True,f,t,f
+5.644634,282.77,5,1.0,1,2,7,99.0,40.783015,-73.889058,Entire home/apt,Loft,Real Bed,strict,NYC,True,f,t,t
+5.116076,166.68,2,1.0,2,2,42,100.0,33.941047,-118.650364,Entire home/apt,Apartment,Real Bed,flexible,LA,True,t,t,t
+5.272127,194.83,4,1.5,2,2,6,87.0,41.814075,-87.698163,Entire home/apt,Townhouse,Real Bed,moderate,Chicago,False,t,t,t
+4.677305,107.48,4,1.0,1,1,52,95.0,41.733402,-87.841479,Private room,Condo,Real Bed,strict,Chicago,True,f,t,t
+5.453696,233.62,2,1.5,1,1,5,96.0,40.757097,-74.183402,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,t,t,t
+5.333588,207.18,4,1.0,2,2,36,89.0,42.309804,-70.935896,Entire home/apt,Condo,Real Bed,moderate,Boston,False,f,t,t
+5.58105,265.35,2,1.0,2,3,20,87.0,40.77187,-73.843521,Entire home/apt,House,Real Bed,moderate,NYC,False,t,t,t
+5.396487,220.63,4,1.0,2,2,7,86.0,42.440764,-71.03034,Entire home/apt,Apartment,Real Bed,strict,Boston,True,t,t,f
+5.526249,251.2,5,1.0,2,2,4,86.0,42.471249,-71.13081,Entire home/apt,Guest suite,Futon,moderate,Boston,False,f,t,t
+4.833023,125.59,2,1.0,3,3,8,93.0,37.813962,-122.370327,Private room,House,Real Bed,moderate,SF,False,f,t,t
+5.115115,166.52,1,1.0,2,2,59,92.0,42.456327,-71.023608,Entire home/apt,Apartment,Real Bed,flexible,Boston,True,f,t,t
+5.589904,267.71,1,1.0,2,2,5,97.0,37.641903,-122.181845,Entire home/apt,Condo,Futon,flexible,SF,True,t,t,t
+5.362278,213.21,5,1.0,2,2,10,91.0,34.233018,-118.682117,Entire home/apt,House,Pull-out Sofa,strict,LA,False,t,t,t
+5.268322,194.09,4,1.0,2,2,14,90.0,33.891729,-118.594172,Entire home/apt,Apartment,Real Bed,moderate,LA,True,f,t,t
+4.535713,93.29,3,1.5,3,3,47,100.0,42.027812,-87.666448,Private room,House,Real Bed,flexible,Chicago,True,f,t,f
+5.380404,217.11,5,3.0,3,3,73,96.0,41.603796,-87.613665,Entire home/apt,Apartment,Real Bed,strict,Chicago,False,f,t,t
+3.762594,43.06,2,3.0,1,1,1,86.0,42.094961,-87.796057,Private room,Townhouse,Real Bed,flexible,Chicago,True,t,t,t
+3.892228,49.02,3,1.0,2,3,45,83.0,34.21925,-118.407527,Shared room,Loft,Airbed,super_strict_30,LA,True,f,t,t
+4.977216,145.07,2,2.0,1,1,3,100.0,41.978792,-87.637184,Entire home/apt,House,Pull-out Sofa,moderate,Chicago,False,t,t,f
+4.976182,144.92,8,1.0,2,2,1,91.0,38.92876,-76.814126,Private room,Studio,Real Bed,moderate,DC,True,t,t,f
+4.93469,139.03,4,1.0,1,1,18,94.0,42.483852,-71.115598,Private room,Apartment,Real Bed,flexible,Boston,True,f,t,f
+4.717159,111.85,3,2.0,2,2,8,100.0,38.71858,-77.136583,Private room,House,Pull-out Sofa,super_strict_30,DC,True,f,t,f
+5.954671,385.55,5,1.0,3,4,16,90.0,37.96341,-122.379316,Entire home/apt,Apartment,Airbed,strict,SF,True,t,t,t
+4.659185,105.55,2,1.0,3,3,2,96.0,41.777335,-87.456296,Private room,Townhouse,Real Bed,flexible,Chicago,True,f,f,t
+5.479597,239.75,2,1.0,2,2,12,91.0,42.496332,-71.068115,Entire home/apt,House,Real Bed,moderate,Boston,True,f,t,t
+5.633825,279.73,8,1.0,2,2,7,95.0,38.824893,-76.836185,Entire home/apt,Condo,Pull-out Sofa,super_strict_30,DC,True,f,t,t
+4.563306,95.9,4,1.5,4,4,117,98.0,38.835244,-76.812898,Private room,House,Real Bed,super_strict_30,DC,False,f,t,f
+5.618515,275.48,2,1.0,5,5,1,90.0,40.515253,-73.840255,Entire home/apt,House,Real Bed,strict,NYC,True,f,t,f
+4.866457,129.86,2,1.0,3,3,25,91.0,37.764706,-122.551554,Private room,House,Real Bed,super_strict_30,SF,True,t,t,t
+5.221976,185.3,1,2.5,3,3,25,85.0,40.793862,-73.736114,Entire home/apt,Cabin,Real Bed,flexible,NYC,True,f,t,t
+4.432244,84.12,2,2.0,2,3,21,86.0,39.02522,-76.862078,Private room,Apartment,Real Bed,moderate,DC,True,t,t,f
+5.591435,268.12,4,1.0,2,2,10,100.0,37.965812,-122.581908,Entire home/apt,Apartment,Futon,moderate,SF,True,f,t,t
+5.79624,329.06,2,1.0,7,7,30,93.0,40.888117,-74.027663,Entire home/apt,House,Real Bed,strict,NYC,True,f,t,t
+5.737701,310.35,4,1.0,2,2,30,94.0,37.623199,-122.308235,Entire home/apt,House,Real Bed,strict,SF,True,f,t,t
+3.970669,53.02,2,1.0,1,1,31,82.0,37.635313,-122.49903,Private room,Apartment,Real Bed,strict,SF,True,t,t,t
+5.386557,218.45,3,2.0,2,2,6,98.0,40.569034,-73.993473,Entire home/apt,House,Couch,flexible,NYC,True,f,t,t
+5.52022,249.69,3,2.0,3,4,8,100.0,34.167205,-118.305253,Entire home/apt,Bungalow,Real Bed,super_strict_30,LA,True,t,t,f
+4.32757,75.76,4,1.0,1,1,12,82.0,34.129271,-118.135849,Shared room,Condo,Real Bed,moderate,LA,True,f,t,t
+5.793867,328.28,4,1.0,2,2,42,91.0,37.93868,-122.520969,Entire home/apt,Condo,Real Bed,strict,SF,True,t,t,f
+4.815026,123.35,4,1.5,1,1,1,84.0,40.791778,-74.081217,Private room,Apartment,Airbed,strict,NYC,False,t,t,t
+5.303603,201.06,2,1.0,1,1,12,100.0,37.986511,-122.344812,Entire home/apt,Apartment,Real Bed,strict,SF,True,t,t,t
+5.492979,242.98,2,1.0,1,1,27,84.0,42.271708,-71.089296,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,t,t,t
+5.455748,234.1,2,1.0,3,3,34,93.0,38.921782,-76.947227,Entire home/apt,Apartment,Real Bed,strict,DC,False,f,t,t
+2.70805,15.0,4,1.0,2,2,0,,33.970373,-118.169011,Private room,Apartment,Couch,strict,LA,True,t,t,f
+4.033532,56.46,2,2.5,2,3,21,96.0,33.700151,-118.165778,Shared room,Apartment,Real Bed,flexible,LA,True,f,t,f
+5.139732,170.67,2,2.0,2,2,1,100.0,42.351488,-70.990421,Private room,House,Real Bed,super_strict_30,Boston,True,f,t,f
+5.189729,179.42,1,2.0,2,2,21,95.0,41.920683,-87.512933,Entire home/apt,Studio,Real Bed,moderate,Chicago,True,f,t,t
+4.751087,115.71,8,1.0,1,1,9,88.0,38.772777,-77.070426,Shared room,Apartment,Real Bed,strict,DC,True,t,t,t
+4.845525,127.17,4,1.0,2,2,38,94.0,33.745661,-118.456053,Private room,House,Real Bed,moderate,LA,True,t,t,t
+5.055927,156.95,6,1.0,2,2,15,98.0,37.826091,-122.597033,Private room,House,Real Bed,super_strict_30,SF,True,t,t,f
+4.993693,147.48,5,1.0,2,2,21,95.0,42.302485,-71.191341,Private room,Apartment,Real Bed,strict,Boston,False,f,t,t
+5.517413,248.99,2,1.5,3,3,25,91.0,38.892621,-76.933199,Entire home/apt,Studio,Real Bed,flexible,DC,False,t,t,t
+5.270689,194.55,4,2.5,2,3,12,95.0,40.625667,-74.012894,Private room,Bungalow,Real Bed,moderate,NYC,False,t,t,t
+4.40501,81.86,3,1.0,2,2,39,96.0,41.868812,-87.641571,Private room,Apartment,Real Bed,strict,Chicago,False,f,t,t
+5.366957,214.21,4,2.0,1,1,12,93.0,42.46981,-71.044221,Entire home/apt,House,Pull-out Sofa,flexible,Boston,True,f,t,t
+5.229931,186.78,3,1.5,1,1,17,92.0,42.315329,-71.005565,Entire home/apt,House,Pull-out Sofa,flexible,Boston,False,f,t,f
+5.565286,261.2,3,1.5,2,3,26,97.0,37.734385,-122.526421,Entire home/apt,House,Real Bed,moderate,SF,False,f,t,f
+2.70805,15.0,4,1.0,5,5,0,,40.63283,-74.168878,Private room,House,Real Bed,strict,NYC,True,f,t,t
+4.769922,117.91,2,1.0,2,2,18,95.0,33.778711,-118.285268,Private room,Apartment,Real Bed,flexible,LA,True,f,t,t
+5.638248,280.97,4,1.5,4,4,68,89.0,38.878423,-77.075163,Entire home/apt,Studio,Futon,strict,DC,True,f,t,f
+5.310493,202.45,2,1.5,1,1,21,91.0,37.690921,-122.472887,Entire home/apt,Apartment,Real Bed,strict,SF,False,t,t,t
+4.393708,80.94,2,1.0,3,3,23,91.0,34.261229,-118.096188,Private room,Loft,Real Bed,moderate,LA,True,t,t,f
+2.70805,15.0,6,2.0,2,2,0,,37.795284,-122.374688,Entire home/apt,House,Real Bed,strict,SF,False,f,t,t
+2.70805,15.0,2,1.0,2,2,0,,41.683373,-87.673358,Private room,Apartment,Real Bed,strict,Chicago,False,f,t,t
+5.168778,175.7,1,1.0,2,2,69,93.0,40.888889,-73.710888,Entire home/apt,Studio,Real Bed,strict,NYC,False,f,t,t
+5.449793,232.71,3,1.0,5,5,26,84.0,34.24215,-118.63035,Entire home/apt,Apartment,Futon,strict,LA,False,f,t,f
+4.198554,66.59,2,1.0,1,1,17,91.0,38.826833,-76.985577,Private room,Apartment,Couch,strict,DC,False,f,t,t
+4.914491,136.25,5,1.0,4,5,2,88.0,38.983021,-76.906398,Private room,Apartment,Pull-out Sofa,strict,DC,True,f,t,t
+5.964093,389.2,2,1.0,4,4,2,94.0,37.809262,-122.492366,Entire home/apt,House,Real Bed,strict,SF,True,f,t,f
+5.065313,158.43,3,1.0,1,1,13,93.0,41.638706,-87.787895,Entire home/apt,House,Real Bed,strict,Chicago,True,t,t,t
+4.884467,132.22,3,1.0,4,4,10,94.0,38.883086,-76.942871,Private room,Apartment,Pull-out Sofa,moderate,DC,True,f,t,t
+4.818506,123.78,2,1.5,3,4,5,91.0,40.832581,-73.775194,Private room,House,Pull-out Sofa,strict,NYC,True,f,t,f
+5.603041,271.25,5,2.0,5,5,7,93.0,38.767928,-76.879836,Entire home/apt,Apartment,Real Bed,strict,DC,True,t,t,t
+5.464637,236.19,4,1.5,2,2,35,98.0,34.275132,-118.282481,Entire home/apt,Apartment,Real Bed,moderate,LA,False,f,t,f
+4.774491,118.45,2,1.0,1,1,39,100.0,38.817772,-76.980545,Private room,Condo,Real Bed,flexible,DC,False,f,t,t
+5.384357,217.97,4,1.0,3,3,12,98.0,39.032995,-76.80988,Entire home/apt,Townhouse,Futon,super_strict_30,DC,True,t,t,f
+5.121282,167.55,2,1.0,2,2,11,92.0,38.739175,-76.883797,Entire home/apt,Apartment,Real Bed,flexible,DC,True,t,t,t
+4.508659,90.8,3,1.5,2,3,26,86.0,34.217231,-118.270194,Private room,House,Real Bed,flexible,LA,False,t,t,t
+5.902879,366.09,6,1.0,1,1,28,97.0,37.865378,-122.492094,Entire home/apt,House,Futon,moderate,SF,True,t,t,t
+4.915225,136.35,2,1.0,1,1,4,83.0,33.900897,-118.304057,Private room,Guest suite,Real Bed,moderate,LA,True,f,t,f
+5.410395,223.72,4,2.0,3,3,14,92.0,41.78123,-87.776132,Entire home/apt,Bungalow,Pull-out Sofa,strict,Chicago,True,f,t,t
+5.223055,185.5,2,2.0,2,2,17,100.0,33.846097,-118.081777,Entire home/apt,Loft,Real Bed,flexible,LA,True,f,t,f
+2.70805,15.0,4,1.0,2,2,0,,33.869443,-118.291173,Entire home/apt,Studio,Pull-out Sofa,strict,LA,False,t,t,f
+5.541656,255.1,5,1.0,2,2,6,95.0,34.171701,-118.511198,Entire home/apt,Condo,Real Bed,strict,LA,True,f,t,t
+4.445353,85.23,2,1.0,1,1,23,100.0,40.675907,-73.851337,Private room,Apartment,Airbed,flexible,NYC,True,f,t,t
+4.214791,67.68,2,2.0,2,2,34,94.0,42.083336,-87.536454,Private room,Condo,Real Bed,moderate,Chicago,True,t,t,t
+5.712676,302.68,2,1.5,3,3,21,88.0,37.790393,-122.210318,Entire home/apt,Condo,Real Bed,strict,SF,True,f,t,f
+4.632493,102.77,2,3.0,2,2,24,87.0,42.287573,-71.053093,Private room,Loft,Real Bed,super_strict_30,Boston,False,t,t,f
+5.617026,275.07,5,1.0,2,2,10,86.0,40.509025,-74.126178,Entire home/apt,Apartment,Real Bed,flexible,NYC,False,t,t,f
+5.276889,195.76,2,2.5,2,2,2,91.0,42.241892,-71.046225,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,f,t,t
+5.325689,205.55,3,1.0,3,3,20,81.0,42.326558,-71.194262,Entire home/apt,House,Real Bed,moderate,Boston,True,f,t,t
+5.082087,161.11,5,1.0,2,3,13,99.0,34.015686,-118.104645,Entire home/apt,Apartment,Real Bed,moderate,LA,True,t,t,t
+5.684804,294.36,5,1.5,1,1,3,100.0,38.860325,-77.169897,Entire home/apt,Townhouse,Real Bed,moderate,DC,True,f,t,f
+4.977974,145.18,3,2.0,2,2,15,95.0,42.392948,-71.081729,Private room,House,Futon,moderate,Boston,True,f,t,f
+5.110662,165.78,2,3.0,3,3,17,92.0,42.323495,-71.167653,Private room,Apartment,Pull-out Sofa,super_strict_30,Boston,True,f,t,f
+5.518737,249.32,6,1.0,3,3,33,88.0,42.478155,-70.90302,Entire home/apt,Apartment,Real Bed,strict,Boston,True,f,t,f
+4.557974,95.39,4,1.0,2,2,9,93.0,34.084892,-118.510145,Private room,Apartment,Real Bed,flexible,LA,True,t,t,t
+4.965498,143.38,4,1.5,2,2,14,96.0,40.668673,-73.977807,Private room,Condo,Real Bed,flexible,NYC,True,t,t,t
+5.071291,159.38,3,1.0,2,2,22,89.0,41.877817,-87.582956,Entire home/apt,Condo,Real Bed,moderate,Chicago,False,f,t,t
+4.887865,132.67,1,1.0,1,2,69,95.0,34.212804,-118.645055,Entire home/apt,Condo,Real Bed,moderate,LA,True,f,t,t
+5.719525,304.76,2,2.5,2,2,102,100.0,42.395053,-71.161864,Entire home/apt,Apartment,Real Bed,strict,Boston,False,f,t,f
+5.276378,195.66,2,1.0,3,3,2,96.0,34.054711,-118.021618,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,f
+4.333493,76.21,2,1.5,1,1,2,91.0,41.790535,-87.51272,Private room,Apartment,Real Bed,strict,Chicago,False,f,t,f
+5.212759,183.6,4,1.0,3,3,8,92.0,41.693347,-87.480711,Entire home/apt,Studio,Real Bed,flexible,Chicago,True,t,t,f
+5.594042,268.82,3,1.0,1,1,7,93.0,40.664361,-74.188455,Entire home/apt,House,Real Bed,moderate,NYC,True,f,t,t
+5.49195,242.73,2,1.0,2,2,2,95.0,37.665329,-122.279633,Entire home/apt,Cabin,Real Bed,flexible,SF,True,t,t,t
+5.37856,216.71,2,1.0,4,5,29,99.0,38.731193,-76.973064,Entire home/apt,Apartment,Real Bed,strict,DC,True,f,t,t
+5.408785,223.36,2,1.5,3,4,32,92.0,40.888591,-73.728286,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,t,t,t
+5.403173,222.11,2,1.0,2,2,41,88.0,42.268961,-70.954796,Entire home/apt,Apartment,Real Bed,moderate,Boston,True,t,t,t
+5.181222,177.9,2,1.0,2,2,12,85.0,34.172923,-118.199303,Entire home/apt,Condo,Real Bed,flexible,LA,True,t,t,t
+5.642474,282.16,4,1.0,4,5,62,93.0,42.249926,-71.112288,Entire home/apt,House,Real Bed,moderate,Boston,True,f,t,t
+5.252588,191.06,1,1.5,3,3,7,89.0,40.823005,-73.959269,Entire home/apt,Apartment,Real Bed,moderate,NYC,True,t,t,t
+5.417122,225.23,2,1.5,4,4,10,95.0,34.241924,-118.685312,Entire home/apt,House,Pull-out Sofa,strict,LA,False,f,t,t
+5.663342,288.11,1,1.0,3,3,62,92.0,37.824299,-122.270611,Entire home/apt,House,Real Bed,flexible,SF,False,t,t,t
+5.234632,187.66,3,2.0,2,2,22,88.0,40.64872,-73.890989,Entire home/apt,House,Pull-out Sofa,strict,NYC,True,f,f,f
+5.394218,220.13,4,1.0,2,3,71,100.0,37.698282,-122.595453,Entire home/apt,House,Real Bed,moderate,SF,False,t,t,t
+3.963096,52.62,2,1.5,1,1,4,86.0,33.963242,-118.140308,Private room,Studio,Real Bed,moderate,LA,False,f,t,t
+5.222893,185.47,4,1.0,2,3,31,91.0,41.962846,-87.553985,Entire home/apt,Loft,Real Bed,moderate,Chicago,True,f,t,t
+5.22176,185.26,2,1.5,3,4,16,98.0,34.233574,-118.469121,Entire home/apt,Condo,Pull-out Sofa,moderate,LA,False,f,t,f
+5.280713,196.51,2,1.5,4,4,26,88.0,37.89481,-122.268876,Private room,Guest suite,Real Bed,strict,SF,True,f,t,t
+4.932313,138.7,2,2.5,1,1,24,93.0,34.233452,-118.402128,Entire home/apt,Studio,Real Bed,strict,LA,False,f,t,t
+4.151984,63.56,4,1.5,1,1,44,79.0,40.525489,-73.777019,Private room,Studio,Airbed,moderate,NYC,False,f,t,f
+5.145865,171.72,5,1.0,3,3,9,100.0,40.718816,-73.933557,Private room,Apartment,Real Bed,strict,NYC,True,f,t,t
+5.465356,236.36,2,1.0,2,2,12,87.0,40.866056,-73.837904,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,t
+4.559859,95.57,4,1.0,4,4,47,93.0,42.26831,-70.931227,Private room,Condo,Real Bed,flexible,Boston,True,t,t,f
+5.229985,186.79,2,1.0,5,5,33,86.0,41.935429,-87.53413,Entire home/apt,Apartment,Real Bed,strict,Chicago,True,f,t,t
+5.19811,180.93,2,1.0,3,4,8,96.0,39.050863,-77.156969,Entire home/apt,Cabin,Real Bed,flexible,DC,False,t,t,t
+4.853592,128.2,4,1.0,1,1,13,90.0,40.856256,-73.888711,Private room,Apartment,Futon,moderate,NYC,True,f,t,t
+4.565909,96.15,2,1.0,1,1,26,90.0,33.920842,-118.230066,Private room,House,Pull-out Sofa,moderate,LA,True,f,t,t
+5.048381,155.77,2,1.0,1,1,4,93.0,40.559089,-74.042545,Entire home/apt,Loft,Real Bed,strict,NYC,True,t,t,t
+5.321155,204.62,3,1.0,1,1,2,99.0,40.557893,-74.046771,Entire home/apt,Apartment,Real Bed,flexible,NYC,True,f,t,f
+5.445314,231.67,4,1.5,3,3,24,98.0,33.789425,-118.45771,Entire home/apt,Apartment,Futon,moderate,LA,True,f,t,f
+5.068023,158.86,2,1.0,3,4,30,87.0,41.918068,-87.806236,Entire home/apt,Apartment,Couch,strict,Chicago,True,t,t,t
+4.283173,72.47,2,1.0,3,4,3,91.0,33.842301,-118.215288,Private room,House,Real Bed,moderate,LA,False,t,f,f
+5.821121,337.35,4,1.0,3,3,17,97.0,37.845194,-122.365908,Entire home/apt,Condo,Real Bed,flexible,SF,False,f,t,t
+4.225227,68.39,2,2.0,1,1,15,96.0,33.793448,-118.610345,Private room,Loft,Real Bed,super_strict_30,LA,False,t,t,t
+6.138763,463.48,4,3.0,5,6,5,90.0,37.984588,-122.332818,Entire home/apt,Guest suite,Real Bed,moderate,SF,True,f,t,t
+2.70805,15.0,6,1.0,1,1,0,,34.178768,-118.299986,Entire home/apt,Loft,Real Bed,flexible,LA,True,t,t,f
+5.495035,243.48,4,1.0,2,3,5,95.0,42.488836,-71.028621,Entire home/apt,Apartment,Real Bed,strict,Boston,False,f,t,f
+2.70805,15.0,3,1.0,2,3,0,,40.647842,-73.896626,Entire home/apt,Condo,Real Bed,moderate,NYC,False,t,t,f
+5.145399,171.64,2,1.0,2,2,45,90.0,33.811085,-118.542246,Entire home/apt,Bungalow,Real Bed,strict,LA,True,f,t,t
+5.389848,219.17,2,1.0,3,3,51,100.0,34.045711,-118.303666,Entire home/apt,Loft,Real Bed,flexible,LA,True,f,t,t
+5.112891,166.15,3,1.0,2,2,22,83.0,34.010109,-118.077541,Entire home/apt,Cabin,Futon,strict,LA,True,f,t,t
+4.890424,133.01,3,1.0,1,1,10,100.0,41.95865,-87.702356,Entire home/apt,Condo,Real Bed,moderate,Chicago,True,f,t,f
+5.720377,305.02,5,1.0,1,1,8,85.0,40.785048,-73.94442,Entire home/apt,House,Couch,moderate,NYC,True,t,t,t
+4.459103,86.41,4,2.0,2,2,9,86.0,42.097087,-87.844415,Shared room,House,Real Bed,moderate,Chicago,False,f,t,t
+4.474948,87.79,2,1.0,5,5,25,97.0,42.337791,-71.159431,Private room,Condo,Real Bed,moderate,Boston,True,f,t,f
+5.041682,154.73,4,1.0,3,3,1,85.0,41.605778,-87.550431,Entire home/apt,Villa,Real Bed,flexible,Chicago,True,f,t,f
+5.288721,198.09,4,2.5,1,1,32,85.0,34.063545,-118.353839,Entire home/apt,Condo,Real Bed,strict,LA,False,t,t,t
+5.623656,276.9,6,1.0,2,3,27,96.0,40.617876,-73.924592,Entire home/apt,Condo,Real Bed,moderate,NYC,False,f,t,f
+4.519285,91.77,2,1.0,3,3,33,100.0,41.993535,-87.588139,Private room,Studio,Pull-out Sofa,moderate,Chicago,True,t,t,f
+3.993234,54.23,3,1.0,1,1,104,96.0,38.882191,-76.859265,Shared room,Apartment,Couch,moderate,DC,False,f,f,t
+3.176386,23.96,4,1.0,2,2,17,83.0,42.411943,-70.994583,Private room,Condo,Pull-out Sofa,flexible,Boston,False,t,t,t
+5.075111,159.99,2,1.0,3,3,38,100.0,37.879878,-122.116307,Private room,Apartment,Real Bed,strict,SF,True,f,f,t
+5.955786,385.98,8,1.0,2,2,43,100.0,40.746481,-73.735912,Entire home/apt,Townhouse,Futon,strict,NYC,True,t,t,f
+5.235857,187.89,2,2.0,3,3,17,92.0,33.876956,-118.606431,Entire home/apt,Townhouse,Real Bed,moderate,LA,True,t,t,t
+5.170825,176.06,2,2.0,2,2,19,96.0,40.813785,-73.825448,Entire home/apt,Condo,Real Bed,flexible,NYC,True,t,t,f
+4.967589,143.68,2,1.0,1,1,99,96.0,41.816689,-87.602587,Entire home/apt,Loft,Pull-out Sofa,strict,Chicago,False,f,t,f
+5.531926,252.63,4,1.0,4,4,37,97.0,42.386069,-70.91209,Entire home/apt,Condo,Real Bed,strict,Boston,False,f,t,t
+4.845367,127.15,2,1.0,2,3,46,91.0,34.085584,-118.076995,Entire home/apt,Apartment,Real Bed,flexible,LA,True,f,t,f
+5.239734,188.62,6,2.5,1,2,32,94.0,42.389028,-70.905322,Entire home/apt,Townhouse,Real Bed,moderate,Boston,False,f,t,f
+4.896197,133.78,2,1.0,2,2,12,87.0,41.611532,-87.726596,Entire home/apt,Bungalow,Real Bed,moderate,Chicago,True,t,t,t
+4.473352,87.65,2,1.0,1,1,29,94.0,42.482146,-71.172071,Private room,Apartment,Airbed,moderate,Boston,True,f,t,t
+4.904608,134.91,3,1.0,1,1,12,81.0,34.192389,-118.153957,Entire home/apt,Apartment,Real Bed,strict,LA,True,f,t,t
+5.489929,242.24,3,3.0,3,3,9,93.0,34.14369,-118.354035,Entire home/apt,Cabin,Real Bed,strict,LA,True,f,t,t
+4.787742,120.03,4,1.0,3,3,92,90.0,33.734103,-118.197519,Private room,House,Real Bed,flexible,LA,True,t,t,t
+5.531134,252.43,5,2.0,3,3,4,100.0,42.206605,-71.136434,Entire home/apt,Studio,Real Bed,moderate,Boston,True,f,t,t
+5.373981,215.72,5,1.0,3,4,23,100.0,34.21621,-118.601812,Entire home/apt,Condo,Real Bed,moderate,LA,False,t,t,t
+5.503134,245.46,1,1.0,1,1,1,91.0,37.904019,-122.377599,Entire home/apt,Studio,Real Bed,strict,SF,False,t,t,t
+5.509145,246.94,1,1.0,1,1,49,99.0,40.734188,-73.732772,Entire home/apt,Loft,Real Bed,moderate,NYC,True,t,t,t
+5.362606,213.28,3,1.0,3,3,8,85.0,40.572093,-73.944802,Entire home/apt,Apartment,Real Bed,super_strict_30,NYC,True,f,t,f
+5.532955,252.89,1,1.0,6,7,1,92.0,40.575312,-74.166714,Entire home/apt,House,Real Bed,flexible,NYC,True,f,t,t
+5.467174,236.79,2,1.0,3,4,56,84.0,40.754193,-74.14706,Entire home/apt,House,Real Bed,moderate,NYC,True,f,t,f
+4.908455,135.43,3,1.5,1,1,19,93.0,41.770933,-87.670194,Entire home/apt,Loft,Real Bed,flexible,Chicago,True,f,t,t
+2.70805,15.0,3,1.0,2,2,0,,40.598725,-73.71014,Shared room,Condo,Real Bed,moderate,NYC,True,f,t,t
+5.227788,186.38,2,1.5,1,1,1,96.0,41.662971,-87.805382,Entire home/apt,Townhouse,Real Bed,super_strict_30,Chicago,True,t,t,t
+5.442591,231.04,4,1.0,1,2,5,88.0,37.821502,-122.538818,Private room,Apartment,Futon,moderate,SF,True,t,t,t
+4.699025,109.84,4,1.0,3,3,17,89.0,42.051661,-87.400653,Private room,Apartment,Real Bed,flexible,Chicago,True,f,t,f
+2.70805,15.0,4,1.5,4,5,0,,42.301095,-70.940389,Private room,Villa,Real Bed,flexible,Boston,True,t,t,t
+3.635215,37.91,1,1.0,3,3,5,89.0,42.095978,-87.523457,Shared room,Cabin,Real Bed,super_strict_30,Chicago,False,t,t,t
+5.371614,215.21,2,1.0,3,3,16,84.0,34.077531,-118.003742,Entire home/apt,Loft,Real Bed,flexible,LA,False,f,t,t
+5.420048,225.89,4,1.0,1,1,54,95.0,34.22923,-118.677432,Entire home/apt,House,Real Bed,moderate,LA,True,f,t,t
+5.149585,172.36,2,1.0,3,3,27,99.0,41.98502,-87.582474,Entire home/apt,Cabin,Real Bed,flexible,Chicago,True,f,t,t
+3.941193,51.48,6,1.0,1,1,128,90.0,41.729691,-87.532271,Private room,Cabin,Pull-out Sofa,strict,Chicago,True,f,t,f
+4.862058,129.29,2,3.0,2,2,73,95.0,40.65824,-74.186853,Private room,Condo,Pull-out Sofa,moderate,NYC,False,f,f,t
+5.889266,361.14,5,1.0,4,4,4,90.0,40.760065,-74.100176,Entire home/apt,Apartment,Pull-out Sofa,moderate,NYC,False,f,t,f
+5.461668,235.49,4,1.0,4,4,10,97.0,42.487434,-71.180859,Entire home/apt,Apartment,Real Bed,moderate,Boston,False,f,t,t
+4.551664,94.79,3,1.5,3,3,47,98.0,40.677987,-73.94617,Private room,Apartment,Real Bed,strict,NYC,True,f,t,f
+3.849935,46.99,3,1.0,3,3,6,79.0,42.244038,-71.112462,Private room,Apartment,Real Bed,super_strict_30,Boston,True,f,t,f
+4.759692,116.71,2,1.0,2,2,14,93.0,33.974215,-118.694317,Entire home/apt,House,Real Bed,moderate,LA,False,f,t,t
+4.232801,68.91,2,1.5,3,4,5,87.0,38.872297,-76.828742,Private room,Apartment,Real Bed,moderate,DC,True,f,t,t
+5.636859,280.58,3,1.0,1,1,27,93.0,37.844371,-122.17375,Entire home/apt,Condo,Real Bed,moderate,SF,True,t,t,f
+5.43394,229.05,2,1.0,2,2,2,90.0,37.858278,-122.1017,Entire home/apt,House,Real Bed,super_strict_30,SF,True,t,t,t
+5.480681,240.01,8,1.0,2,2,3,86.0,42.330481,-71.01055,Entire home/apt,House,Real Bed,super_strict_30,Boston,False,f,t,t
+4.662873,105.94,3,3.0,1,1,5,84.0,40.766214,-73.752427,Private room,Studio,Couch,strict,NYC,True,f,t,t
+4.972518,144.39,5,1.0,3,4,7,100.0,37.687627,-122.136934,Private room,Loft,Real Bed,moderate,SF,True,f,t,f
+4.226542,68.48,5,2.0,3,3,30,93.0,40.635198,-74.02432,Shared room,Apartment,Real Bed,moderate,NYC,False,f,t,t
+5.637928,280.88,3,1.0,5,5,30,86.0,42.354589,-71.174055,Entire home/apt,Condo,Real Bed,moderate,Boston,True,t,t,t
+5.280561,196.48,2,1.0,1,1,5,95.0,42.217552,-71.036198,Entire home/apt,Loft,Real Bed,flexible,Boston,False,t,t,f
+4.527425,92.52,1,1.5,3,3,7,90.0,37.923778,-122.50695,Private room,Condo,Real Bed,flexible,SF,False,f,t,t
+4.913022,136.05,5,1.0,2,2,49,89.0,38.912304,-77.006612,Private room,Condo,Real Bed,flexible,DC,True,t,t,t
+5.195565,180.47,3,1.0,2,2,79,93.0,40.530234,-74.198319,Private room,Condo,Real Bed,moderate,NYC,True,f,t,t
+4.921367,137.19,4,1.0,3,3,40,82.0,38.804218,-76.953416,Entire home/apt,Apartment,Real Bed,strict,DC,True,f,t,f
+3.743368,42.24,1,1.5,3,3,9,93.0,34.071491,-118.015507,Private room,House,Real Bed,flexible,LA,True,f,t,t
+4.800984,121.63,2,1.0,1,1,17,84.0,33.866775,-118.354496,Entire home/apt,House,Real Bed,flexible,LA,True,f,t,t
+4.628203,102.33,3,1.0,2,2,10,89.0,41.80677,-87.713151,Entire home/apt,Apartment,Real Bed,strict,Chicago,True,f,t,f
+4.487962,88.94,4,1.0,2,2,23,100.0,42.294554,-70.985569,Private room,Studio,Real Bed,super_strict_30,Boston,False,t,t,t
+6.046592,422.67,4,3.0,2,2,21,85.0,37.637192,-122.289439,Entire home/apt,Apartment,Real Bed,moderate,SF,True,t,t,t
