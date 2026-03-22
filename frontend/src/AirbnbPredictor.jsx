@@ -298,7 +298,7 @@ export default function AirbnbPredictor() {
                 <div style={{ display:"flex", flexDirection:"column", gap:10 }}>
                   <Stepper label="Guests"    icon="👥" value={form.accommodates}  min={1} max={16} onChange={v => set("accommodates", v)} />
                   <Stepper label="Bedrooms"  icon="🛏" value={form.bedrooms}      min={0} max={10} onChange={v => set("bedrooms", v)} />
-                  <Stepper label="Bathrooms" icon="🚿" value={form.bathrooms}     min={1} max={8} step={0.5} onChange={v => set("bathrooms", v)} />
+                  <Stepper label="Bathrooms" icon="🚿" value={form.bathrooms}     min={1} max={8} step={1} onChange={v => set("bathrooms", v)} />
                   <Stepper label="Beds"      icon="🛌" value={form.beds}          min={1} max={16} onChange={v => set("beds", v)} />
                 </div>
               </Card>
