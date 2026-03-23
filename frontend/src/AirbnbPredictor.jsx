@@ -305,47 +305,8 @@ export default function AirbnbPredictor() {
             </div>
 
             {/* Row 2 — Host | Duration | Result */}
-            <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr 1fr", gap:14 }}>
-
-              {/* Host & Reviews */}
-              <Card style={{ padding:18 }}>
-                <SH icon="⭐" label="Host & Reviews" />
-                <div style={{ display:"flex", flexDirection:"column", gap:12 }}>
-
-                  {/* Toggles */}
-                  <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:9 }}>
-                    {[
-                      ["Cleaning Fee",  form.cleaning_fee==="True", v => set("cleaning_fee", v ? "True" : "False")],
-                      ["Instant Book",  form.instant_bookable==="t",v => set("instant_bookable", v ? "t" : "f")],
-                      ["Profile Pic",   form.host_has_profile_pic==="t", v => set("host_has_profile_pic", v ? "t" : "f")],
-                      ["ID Verified",   form.host_identity_verified==="t",v => set("host_identity_verified", v ? "t" : "f")],
-                    ].map(([label, val, setter]) => (
-                      <div key={label} style={{ background:"rgba(255,255,255,.025)", borderRadius:10, padding:"9px 11px", border:"1px solid rgba(255,255,255,.05)", display:"flex", alignItems:"center", justifyContent:"space-between" }}>
-                        <span style={{ fontSize:11, color:"#94a3b8" }}>{label}</span>
-                        <Toggle checked={val} onChange={setter} />
-                      </div>
-                    ))}
-                  </div>
-
-                  <div>
-                    <div style={{ fontSize:10, color:"#475569", marginBottom:5, fontWeight:600, letterSpacing:".8px", textTransform:"uppercase" }}>No. of Reviews</div>
-                    <input type="number" value={form.number_of_reviews} min={0} max={2000}
-                      onChange={e => set("number_of_reviews", parseInt(e.target.value)||0)}
-                      style={inp} />
-                  </div>
-
-                  <div>
-                    <div style={{ fontSize:10, color:"#475569", marginBottom:5, fontWeight:600, letterSpacing:".8px", textTransform:"uppercase" }}>
-                      Review Score — <span style={{ color:"#ff385c" }}>{form.review_scores_rating}/100</span>
-                    </div>
-                    <input type="range" className="srange" min={0} max={100} value={form.review_scores_rating}
-                      onChange={e => set("review_scores_rating", parseInt(e.target.value))} />
-                    <div style={{ display:"flex", justifyContent:"space-between", fontSize:9, color:"#1e293b", marginTop:3 }}>
-                      <span>Poor</span><span>Average</span><span>Perfect</span>
-                    </div>
-                  </div>
-                </div>
-              </Card>
+            <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:14 }}>
+              
 
               {/* Duration */}
               <Card accent style={{ padding:18 }}>
